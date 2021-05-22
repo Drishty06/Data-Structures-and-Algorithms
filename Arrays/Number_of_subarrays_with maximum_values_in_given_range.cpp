@@ -1,4 +1,4 @@
-//problem link: https://practice.geeksforgeeks.org/problems/number-of-subarrays-with-maximum-values-in-given-range5949/1
+//Problem link: https://practice.geeksforgeeks.org/problems/number-of-subarrays-with-maximum-values-in-given-range5949/1
 //My YouTube Code Explanation video😎: https://www.youtube.com/watch?v=J1PauAVnVWI 
 //Window Sliding Technique
 
