@@ -1,4 +1,4 @@
-// problem link: https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together4847/1
+// Problem link: https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together4847/1
 // My YouTube Code Explanation video😎: https://www.youtube.com/watch?v=NwSHs6N4VRo 
 // Window Sliding Technique
 // elements smaller than k --> Ghar ke Log
