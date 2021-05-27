@@ -1,5 +1,5 @@
 // problem link: https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1#
-// the code mentioned below uses sort function and solves the que with a complexity of O(nlogn)
+// the code mentioned below uses sort function and solves the que with a complexity of O(nlogn) .
 // but geeksforgeeks has mentioned an efficient O(n) solution(method 3) : https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/  
 
 int *findTwoElement(int *arr, int n) {
