@@ -20,15 +20,15 @@
 	        {
 	            // now we use 2 pointer approach until j and k meet each other
 	            sum=arr[i]+arr[j]+arr[k]; // if the sum is greater than x than we decrease "k" since array is sorted
-    	        if(sum < x)               // and if sum is less than x than we increament "j"
-    	        {
-    	            count+=k-j;          // if element at kth index and jth index summing up with ith indexed element is less than x   
-    	            j++;                 // than obviously, the elements between jth and kth indices will be less than x since 
-    	        }                        // the array is sorted and kth iterator now can take any index between j and current k to give desired sum
-    	        else
-    	        {
-    	            k--;
-    	        }
+			if(sum < x)               // and if sum is less than x than we increament "j"
+			{
+			    count+=k-j;          // if element at kth index and jth index summing up with ith indexed element is less than x   
+			    j++;                 // than obviously, the elements between jth and kth indices will be less than x since 
+			}                        // the array is sorted and kth iterator now can take any index between j and current k to give desired sum
+			else
+			{
+			    k--;
+			}
 	        }
 	    }
 	    return count;
