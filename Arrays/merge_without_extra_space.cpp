@@ -17,6 +17,6 @@ void merge(int family1[], int family2[], int n, int m)
 	        i++; // moving the two pointers furthur
 	        j--;
 	    }
-	    sort(family1,family1+n); // swapping may result in unorederd elements so finaaly sorting them
+	    sort(family1,family1+n); // Swapping may result in unorederd elements so finaaly sorting them
 	    sort(family2,family2+m);
 }
