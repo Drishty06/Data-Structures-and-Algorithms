@@ -1,5 +1,5 @@
 // problem link: https://practice.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1
-// modified two pointer approach
+// Modified two pointer approach
 
 	long long countTriplets(long long arr[], int n, long long x)
 	{
