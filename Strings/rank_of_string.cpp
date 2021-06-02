@@ -1,4 +1,4 @@
-// problem link: https://practice.geeksforgeeks.org/problems/rank-the-permutations2323/1#
+// Problem link: https://practice.geeksforgeeks.org/problems/rank-the-permutations2323/1#
 // based on finding lexicographic rank of string 
 // based on the method which was used in 12th grade to find rank of given word
 
