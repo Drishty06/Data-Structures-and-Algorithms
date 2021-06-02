@@ -7,7 +7,7 @@ int *findTwoElement(int *arr, int n) {
         ans[2]={0};          // even using static int arr[n] for array wont work since for multiple outputs it wont work as static variables can be initialized only once
         int index=0;
         sort(arr,arr+n);     
-        for(int i=0; i<n-1; i++)// to check duplicates
+        for(int i=0; i<n-1; i++) // to check duplicates
         {
             if(arr[i] == arr[i+1])
             {
