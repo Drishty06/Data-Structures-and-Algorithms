@@ -1,4 +1,4 @@
-// problem link: https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1
+// Problem link: https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1
 // My YouTube Code Explanation video😎: https://www.youtube.com/watch?v=WI8886xXRlU
 
 int sb(int arr[], int n, int x)
