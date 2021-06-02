@@ -1,6 +1,5 @@
 // problem link: https://practice.geeksforgeeks.org/problems/isomorphic-strings-1587115620/1
 // based on count array method
-// str1=abbd and str2=tssc
 
 bool areIsomorphic(string str1, string str2)
     {
