@@ -23,5 +23,5 @@ int maxSubarraySumCircular(vector<int>& arr) {
         if(arr[j] > maximum) maximum=arr[j];
     }
     if(check == 0) return maximum;
-    return max(total-circular_best,normal_best); // checking for the best among possiblites 1 and 2 ie., best from normal sum and circular sum
+    return max(total-circular_best,normal_best); // Checking for the best among possiblites 1 and 2 ie., best from normal sum and circular sum
     }
