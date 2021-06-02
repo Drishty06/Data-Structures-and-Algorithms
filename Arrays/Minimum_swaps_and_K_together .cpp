@@ -1,6 +1,6 @@
 // Problem link: https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together4847/1
 // My YouTube Code Explanation video😎: https://www.youtube.com/watch?v=NwSHs6N4VRo 
-// Window Sliding Technique
+// Window sliding Technique
 // elements smaller than k --> Ghar ke Log
 // ghar ki size(window ki size) = Number of ghar ke log
 int minSwap(int *arr, int n, int k) \
