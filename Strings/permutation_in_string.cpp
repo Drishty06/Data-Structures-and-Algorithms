@@ -1,5 +1,5 @@
-//Problem link: https://leetcode.com/problems/permutation-in-string/
-//My YouTube Code Explanation video😎: https://www.youtube.com/watch?v=grfC-Nk09zo
+// Problem link: https://leetcode.com/problems/permutation-in-string/
+// My YouTube Code Explanation video😎: https://www.youtube.com/watch?v=grfC-Nk09zo
 
  bool checkInclusion(string s1, string s2) {
         if (s1.length() > s2.length())
