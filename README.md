@@ -1,4 +1,4 @@
-<h1 align="center"> 100-Days-Code-Challenge 🚀🤩 </h1>
+<h1 align="center"> 🤩🚀 100-Days-Code-Challenge 🚀🤩 </h1>
 <p align="center">
 <img align="center" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/manufacturetocat.png" width="300"/>
 </p>
