@@ -32,8 +32,5 @@ void merge(int family1[], int family2[], int n, int m) // this merge function is
         { // median = total elements/2
             if(((n+m) / 2) + 1 <=n) return arr[(n+m)/2];
             else return brr[(n+m)/2 - n];
-        }
-            
-        
-        
+        }        
     }
