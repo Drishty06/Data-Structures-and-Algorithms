@@ -6,8 +6,8 @@
 //    Element> r ---> Villian
 //    Element< l ---> Aam Janta
 
-//Fact that will helping hand of this solution💡: Number of subarrays including last element of array
-//is always equal to size of array 😁
+// Fact that will helping hand of this solution💡: Number of subarrays including last element of array
+// is always equal to size of array 😁
 class Solution{
     public:
     long countSubarrays(int a[], int n, int L, int R)
