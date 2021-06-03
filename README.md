@@ -7,3 +7,5 @@
 🚀 Planning for 100 days of code </br>
 <h3>🟡DAY 01</h3> 
 🚀 Revised all the sorting Algorithms and created Analysis.md under Sorting folder and added the crux of it there.
+🚀 added codes for following sorting algorithms:
+   1. Selection sort 2. Bubble Sort 3. Insertion sort 4. Merge sort
