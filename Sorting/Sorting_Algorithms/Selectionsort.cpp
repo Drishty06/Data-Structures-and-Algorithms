@@ -2,7 +2,7 @@
 // time complexity: BEST CASE:    O(N^2) 
 //                  AVERAGE CASE: O(N^2)
 //                  WORST CASE:   O(N^2)
-// space complexity: O(1)
+// Space complexity: O(1)
 // UNSTABLE
 // IN-PLACE ALGORITHM
 // it works on finding minimum element in each iteration and swap it 
