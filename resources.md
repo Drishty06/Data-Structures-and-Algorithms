@@ -1,1 +1,1 @@
-🟡 Sorting visualizer: https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/  </br>
+🟡 Sorting Algorithms' visualizer: https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/visualize/  </br>
