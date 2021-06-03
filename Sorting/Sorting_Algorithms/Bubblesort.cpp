@@ -1,7 +1,7 @@
 // bubble sort algorithm visualizer: https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/
 // time complexity: BEST CASE:    O(N^2) (but bubble sort can be modified and that results in O(N) best case time complexity)
-//                  AVERAGE CASE: O(n^2)
-//                  WORST CASE:   O(n^2)
+//                  AVERAGE CASE: O(N^2)
+//                  WORST CASE:   O(N^2)
 // space complexity: O(1)
 // STABLE
 // IN-PLACE ALGORITHM
