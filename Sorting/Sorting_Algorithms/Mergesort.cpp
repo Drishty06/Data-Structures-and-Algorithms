@@ -1,4 +1,4 @@
-// meege sort algorithm visualizer: https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/visualize/
+// merge sort algorithm visualizer: https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/visualize/
 // time complexity: BEST CASE:    O(N logN) 
 //                  AVERAGE CASE: O(N logN)
 //                  WORST CASE:   O(N logN)
