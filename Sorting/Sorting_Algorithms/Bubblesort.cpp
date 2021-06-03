@@ -3,6 +3,8 @@
 //                  AVERAGE CASE: O(n^2)
 //                  WORST CASE:   O(n^2)
 // space complexity: O(1)
+// STABLE
+// IN-PLACE ALGORITHM
 // largest element goes to the top just like bubble in every iteration
 void bubblesort( int arr[], int n) 
 {
