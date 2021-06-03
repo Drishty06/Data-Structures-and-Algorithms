@@ -20,4 +20,10 @@ HEAP SORT and QUICK SORT are not stable</br>
 <h3>•5 Based on Extra Space:<br/> </h3> 
 Requirement Sorting algorithms are said to be IN PLACE if they require a constant O(1) extra space for sorting.</br>
 INSERTION SORT and QUICK SORT are IN PLACE sort as we move the elements about the pivot and do not actually use a separate array which is NOT the case in MERGE SORT where the size of the input must be allocated beforehand to store the output during the sort.
-MERGE SORT is an example of out place sort as it require extra memory space for it’s operations.
+MERGE SORT is an example of out place sort as it require extra memory space for it’s operations.</br>
+<h2> ⚪IMP points </h2>
+🟠 When the array is almost sorted, insertion sort can be preferred.</br>
+🟠 When order of input is not known, merge sort is preferred as it has worst case time complexity of nlogn and it is stable as well.</br>
+🟠 When the array is sorted, insertion and bubble sort gives complexity of n but quick sort gives complexity of n^2.</br>
+🟠 Inbuilt sort in stl is combination of quicksort, heapsort, insertionsort. Together known as Introsort. COMPLEXITY: O(n logn)</br>
+🟠 Counting sort, Radix sort and Bucket sort are non - comparision based Algorithms.
