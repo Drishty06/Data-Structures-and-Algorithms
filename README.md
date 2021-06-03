@@ -8,4 +8,4 @@
 <h3>🟡DAY 01</h3> 
 🚀 Revised all the sorting Algorithms and created Analysis.md under Sorting folder and added the crux of it there.</br>
 🚀 Added codes for following sorting algorithms:</BR>
-   1. Selection sort 2. Bubble Sort 3. Insertion sort 4. Merge sort 5. Quick sort 6. Count sort
+   &ensp; &ensp; 1. Selection sort 2. Bubble Sort 3. Insertion sort 4. Merge sort 5. Quick sort 6. Count sort
