@@ -1,1 +1,1 @@
-🟡 Sorting Algorithms' visualizer: https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/visualize/  </br>
+🟡 Sorting Algorithms' visualizer: https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/visualize/ </br>&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  https://visualgo.net/en/sorting</br>
