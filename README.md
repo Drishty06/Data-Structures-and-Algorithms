@@ -10,7 +10,7 @@
 🚀 Added codes for following sorting algorithms:</br>
    &ensp; &ensp; 1. Selection sort 2. Bubble Sort 3. Insertion sort 4. Merge sort 5. Quick sort 6. Count sort </br>
 <h3>🔵DAY 02</h3>
-🚀 Solved two questions from codechef june long challenge (Could not post it here right now since contest is still on😅)</br>
+🚀 Solved 2 questions from codechef june long challenge (Could not post it here right now since contest is still on😅)</br>
 &ensp; &ensp; 1. Summer heat <br>
 &ensp; &ensp; 2. Bella ciao <br>
 🚀 Appeared for Codeforces Educational Round 110. <br>
