@@ -23,4 +23,4 @@
  &ensp; &ensp; 2. Codeforces question B from today's contest<br>
 🚀 Learnt basic searching and sorting concepts.<br>
 <h3>🟠DAY 03</h3>
-🚀 
+🚀 Due to eye problem wasn't allowed to use laptop. Skipped this day☹
