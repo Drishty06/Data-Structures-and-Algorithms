@@ -10,7 +10,7 @@
 🚀 Added codes for following sorting algorithms:</br>
    &ensp; &ensp; 1. Selection sort 2. Bubble Sort 3. Insertion sort 4. Merge sort 5. Quick sort 6. Count sort </br>
 <h3>🔵DAY 02</h3>
-🚀 Solved 2 questions from codechef june long challenge (Could'nt post it here right now since contest is still on😅)</br>
+🚀 Solved 2 questions from codechef june long challenge (Couldn't post it here right now since contest is still on😅)</br>
 &ensp; &ensp; 1. Summer heat <br>
 &ensp; &ensp; 2. Bella ciao <br>
 🚀 Appeared for Codeforces Educational Round 110. <br>
@@ -23,4 +23,10 @@
  &ensp; &ensp; 2. Codeforces question B from today's contest<br>
 🚀 Learnt basic searching and sorting concepts.<br>
 <h3>🟠DAY 03</h3>
-🚀 Due to eye problem wasn't allowed to use laptop. Skipped this day☹
+🚀 Learnt some advanced searching and sorting concepts <br>
+🚀 Questions practiced today:<br>
+&ensp; &ensp; 1. Maximum sum of subarray less than or equal to x
+&ensp; &ensp; 2. Subarray with given sum
+&ensp; &ensp; 3. Count occurences of anograms
+&ensp; &ensp; 4. Longest Subarray with atmost K Even elements
+
