@@ -25,8 +25,8 @@
 <h3>🟠DAY 03</h3>
 🚀 Learnt some advanced searching and sorting concepts <br>
 🚀 Questions practiced today:<br>
-&ensp; &ensp; 1. Maximum sum of subarray less than or equal to x
-&ensp; &ensp; 2. Subarray with given sum
-&ensp; &ensp; 3. Count occurences of anograms
-&ensp; &ensp; 4. Longest Subarray with atmost K Even elements
+&ensp; &ensp; 1. Maximum sum of subarray less than or equal to x <br>
+&ensp; &ensp; 2. Subarray with given sum <br>
+&ensp; &ensp; 3. Count occurences of anograms <br>
+&ensp; &ensp; 4. Longest Subarray with atmost K Even elements <br>
 
