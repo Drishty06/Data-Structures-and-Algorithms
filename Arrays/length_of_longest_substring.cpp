@@ -1,3 +1,5 @@
+// problem link: https://practice.geeksforgeeks.org/problems/length-of-the-longest-substring3036/1/?category[]=sliding-window&category[]=sliding-window&difficulty[]=1&page=1&sortBy=submissions&query=category[]sliding-windowdifficulty[]1page1sortBysubmissionscategory[]sliding-window#
+
 int longestUniqueSubsttr(string str)
 {
         // window sliding technique
