@@ -29,4 +29,10 @@
 &ensp; &ensp; 2. Subarray with given sum <br>
 &ensp; &ensp; 3. Count occurences of anograms <br>
 &ensp; &ensp; 4. Longest Subarray with atmost K Even elements <br>
+<h3>🟢DAY 04</h3>
+🚀 Continued learning advanced sorting and searching techniques <br>
+🚀 Problems praacticed today: <br>
+&ensp; &ensp; 1. Factorial of large numbers <br>
+&ensp; &ensp; 2. Length of longest substring
+&ensp; &ensp; 3. Substring of length k with k-1 distinct elements
 
