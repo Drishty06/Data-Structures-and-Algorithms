@@ -35,4 +35,5 @@
 &ensp; &ensp; 1. Factorial of large numbers <br>
 &ensp; &ensp; 2. Length of longest substring <br>
 &ensp; &ensp; 3. Substring of length k with k-1 distinct elements <br>
-&ensp; &ensp; 4. Rotate a number
+&ensp; &ensp; 4. Rotate a number <br>
+&ensp; &ensp; 5. Chocolate distribution problem
