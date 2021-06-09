@@ -7,7 +7,7 @@
     // checkout: STL functions repo -> bit manipulation -> countbits.cpp
     // to get more info on __inbuilt_popcount(int n)
 
-    static bool comparator(int a,int b)
+    static bool comparator(int a,int b) // not using static here threw an error
     {
         return __builtin_popcount(a) > __builtin_popcount(b);
     }
