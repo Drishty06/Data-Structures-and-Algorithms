@@ -36,4 +36,11 @@
 &ensp; &ensp; 2. Length of longest substring <br>
 &ensp; &ensp; 3. Substring of length k with k-1 distinct elements <br>
 &ensp; &ensp; 4. Rotate a number <br>
-&ensp; &ensp; 5. Chocolate distribution problem
+&ensp; &ensp; 5. Chocolate distribution problem <br>
+<h3>🔴DAY 05</h3>
+🚀 Focused in searching and sorting concepts today as well. <br>
+🚀 Problems practiced today <br>
+&ensp; &ensp; 1. Three way partitioning <br>
+&ensp; &ensp; 2. Sort an array of 0s, 1s, and 2s <br>
+&ensp; &ensp; 3. Sort by set bit count <br>
+
