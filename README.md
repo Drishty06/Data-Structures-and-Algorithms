@@ -43,4 +43,6 @@
 &ensp; &ensp; 1. Three way partitioning <br>
 &ensp; &ensp; 2. Sort an array of 0s, 1s, and 2s <br>
 &ensp; &ensp; 3. Sort by set bit count <br>
+<h3>🟡DAY 01</h3> 
+🚀 Contributed to LGM SOC'21 and learnt the basic etiquette of contributing to open source <br>
 
