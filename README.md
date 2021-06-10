@@ -38,7 +38,7 @@
 &ensp; &ensp; 4. Rotate a number <br>
 &ensp; &ensp; 5. Chocolate distribution problem <br>
 <h3>🔴DAY 05</h3>
-🚀 Focused in searching and sorting concepts today as well. <br>
+🚀 Focused on searching and sorting concepts today as well. <br>
 🚀 Problems practiced today <br>
 &ensp; &ensp; 1. Three way partitioning <br>
 &ensp; &ensp; 2. Sort an array of 0s, 1s, and 2s <br>
