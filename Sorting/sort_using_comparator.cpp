@@ -1,8 +1,8 @@
 // watch this for more info: https://www.youtube.com/watch?v=3pvZhwp0U9w
-//Given an array of integers, sort it in such a way that the odd numbers appear
-//first and the even numbers appear later. 
-//The odd numbers should be sorted in descending order and 
-//the even numbers should be sorted in ascending order.
+// Given an array of integers, sort it in such a way that the odd numbers appear
+// first and the even numbers appear later. 
+// The odd numbers should be sorted in descending order and 
+// the even numbers should be sorted in ascending order.
 #include <bits/stdc++.h>
 using namespace std;
 bool comparator(int a, int b)
