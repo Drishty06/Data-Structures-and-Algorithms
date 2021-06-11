@@ -51,7 +51,7 @@
 &ensp; &ensp; 1. binary exponention <br>
 &ensp; &ensp; 2. gcd using euclidean <br>
 &ensp; &ensp; 3. gcd of arrays <br>
-🚀 Did some basic searching problems
+🚀 Did some basic searching problems <br>
 🚀 Tried but not accepted:🙁  <br>
 &ensp; &ensp; Bitwise tupple from june long challenge <br>
 <h3>🟠DAY 08</h3>
