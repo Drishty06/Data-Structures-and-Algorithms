@@ -46,4 +46,13 @@
 <h3>🟡DAY 06</h3> 
 🚀 Contributed to LGM SOC'21 and learnt the basic etiquette of contributing to open source <br>
 <h3>🔵DAY 07</h3>
-🚀 
+🚀 Continued learning searching concepts. <br>
+🚀 Created Math tricks folder and added some basic concepts like: <br>
+&ensp; &ensp; 1. binary exponention <br>
+&ensp; &ensp; 2. gcd using euclidean <br>
+&ensp; &ensp; 3. gcd of arrays <br>
+🚀 Did some basic searching problems
+🚀 Tried but not accepted:🙁  <br>
+&ensp; &ensp; Bitwise tupple from june long challenge <br>
+<h3>🟠DAY 08</h3>
+🚀
