@@ -1,5 +1,17 @@
 <h2> ⚪Sorting Algorithms in Big O Notation </h2>
 <img src=https://i.pinimg.com/originals/25/4f/84/254f84cc53af04da50fc93645e30ff4a.png>
+<h3> ⚪Sorting Algorithms' overview </h3>
+
+| Problem | Method |
+| --- | --- |
+| Binary array (with two type of elements) | ``` Partition algorithm of quick sort ``` |
+| Array with three types of values | `` Three way Partioning ``|
+| Array of size n and small ranged values | `` Counting Sort `` |
+| Array with uniformly distributed values | `` Bucket Sort `` |
+| When Memory rights are costly | `` Selection sort and cycle sort `` |
+| When array size is small | `` Insertion Sort ``|
+| Array of size n and small ranged values | `` Counting Sort `` |
+| When available extra memory of less | `` Shell Sort `` |
 <h2> ⚪Classification of Sorting Algorithms </h2>
 Sorting algorithms can be categorized based on the following parameters:
 
