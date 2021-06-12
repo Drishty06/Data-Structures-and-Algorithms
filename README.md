@@ -54,6 +54,11 @@
 &ensp; &ensp; 3. gcd of arrays <br>
 🚀 Did some basic searching problems <br>
 🚀 Tried but not accepted:🙁  <br>
-&ensp; &ensp; Bitwise tupple from june long challenge <br>
+&ensp; &ensp; Bitwise tuple from june long challenge <br>
 <h3>🟠DAY 08</h3>
-🚀
+🚀 Problems solved: <br>
+&ensp; &ensp; 1. Bitwise tuples from june codechef long challenge (will post once the contest gets over) <br>
+&ensp; &ensp; 2. Merge Intervals <br>
+🚀 Tried but not accepted:🙁  <br>
+&ensp; &ensp; Shortest rouute from june long challenge <br>
+🚀 Advanced Searching
