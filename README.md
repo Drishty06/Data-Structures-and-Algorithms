@@ -61,4 +61,6 @@
 &ensp; &ensp; 2. Merge Intervals <br>
 🚀 Tried but not accepted:🙁  <br>
 &ensp; &ensp; Shortest route from june long challenge <br>
-🚀 Advanced Searching
+🚀 Advanced Searching <br>
+<h3>🟢DAY 09</h3>
+🚀 Solved Shortest route from Codechef June challenege (will be uploading the solution once the contest gets over)
