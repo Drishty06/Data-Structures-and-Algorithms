@@ -60,5 +60,5 @@
 &ensp; &ensp; 1. Bitwise tuples from june codechef long challenge (will post once the contest gets over) <br>
 &ensp; &ensp; 2. Merge Intervals <br>
 🚀 Tried but not accepted:🙁  <br>
-&ensp; &ensp; Shortest rouute from june long challenge <br>
+&ensp; &ensp; Shortest route from june long challenge <br>
 🚀 Advanced Searching
