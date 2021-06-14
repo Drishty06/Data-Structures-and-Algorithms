@@ -65,7 +65,7 @@
 <h3>🟢DAY 09</h3>
 🚀 Solved Shortest route from Codechef June challenege (will be uploading the solution once the contest gets over)
 <h3>🔴DAY 10</h3>
-🚀 Problems solved:
+🚀 Problems solved: <br>
 &ensp; &ensp; 1. first occurence using binary search <br>
 &ensp; &ensp; 2. last occurrence using binary search <br>
 &ensp; &ensp; 3. count occurrences <br>
