@@ -1,3 +1,4 @@
+// problem link: https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1
 // approach 1: by simply combining first occurrence and last occurrence codes
 // TIME COMPLEXITY: O(log n)
 // SPACE COMPLEXITY: O(1)
