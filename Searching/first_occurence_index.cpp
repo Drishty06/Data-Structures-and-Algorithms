@@ -18,6 +18,7 @@ int first_occ(int arr[], int n, int x)
       else high = mid-1;
     }
   }
+  return -1;
 }
 
 // recursive
