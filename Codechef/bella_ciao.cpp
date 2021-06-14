@@ -1,3 +1,4 @@
+// problem link: https://www.codechef.com/JUNE21C/problems/CHFHEIST/
 #include <bits/stdc++.h>
 using namespace std;
 // p+p+..(d times)
