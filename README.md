@@ -64,3 +64,10 @@
 🚀 Advanced Searching <br>
 <h3>🟢DAY 09</h3>
 🚀 Solved Shortest route from Codechef June challenege (will be uploading the solution once the contest gets over)
+<h3>🔴DAY 10</h3>
+🚀 Problems solved:
+&ensp; &ensp; 1. first occurence using binary search <br>
+&ensp; &ensp; 2. last occurrence using binary search <br>
+&ensp; &ensp; 3. count occurrences <br>
+&ensp; &ensp; 4. square root <br>
+&ensp; &ensp; 5. number of 1s in a sorted array using binary search
