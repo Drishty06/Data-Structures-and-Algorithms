@@ -1,3 +1,4 @@
+// problem link: https://www.codechef.com/JUNE21C/problems/BITTUP
 // firstly tried the brute force approach by variable number of for loops and tried to observe the pattern
 // and interestingly found an equation which satisfied all the test cases: (2^n - 1)^m
 // but here binary exponention is used as well since modulo along with exponention
