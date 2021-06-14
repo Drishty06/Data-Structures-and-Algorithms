@@ -21,7 +21,7 @@ int last_occ(int arr[], int n, int x)
   return -1;
 }
 
-// recursive:
+// Recursive:
 int last_occ(int arr[], int low, int high, int n, int x)
 {
     if(low > high) return -1;
