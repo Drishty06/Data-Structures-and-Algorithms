@@ -73,4 +73,4 @@
 &ensp; &ensp; 5. number of 1s in a sorted array using binary search <br>
 <h3>🟡DAY 11</h3>
 🚀 Book Allocation problem <br>
-🚀 Revised concepts
+🚀 Revised previously learnt concepts
