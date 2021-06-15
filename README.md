@@ -70,4 +70,7 @@
 &ensp; &ensp; 2. last occurrence using binary search <br>
 &ensp; &ensp; 3. count occurrences <br>
 &ensp; &ensp; 4. square root <br>
-&ensp; &ensp; 5. number of 1s in a sorted array using binary search
+&ensp; &ensp; 5. number of 1s in a sorted array using binary search <br>
+<h3>🟡DAY 11</h3>
+🚀 Book Allocation problem <br>
+🚀 Revised concepts
