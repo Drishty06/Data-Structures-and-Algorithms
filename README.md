@@ -74,3 +74,8 @@
 <h3>🟡DAY 11</h3>
 🚀 Book Allocation problem <br>
 🚀 Revised previously learnt concepts
+<h3>🔵DAY 12</h3>
+🚀 Peak element <br>
+🚀 Search in rotated array <br>
+🚀 consecutive sum which ends up to a given number
+
