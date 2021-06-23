@@ -113,4 +113,8 @@
 * find pair difference
 
 ## 🔺Day 14 : 
-
+### 1. Learnt basics of oops
+### 2. Learnt Maps and unoredered maps
+### 3. Solved following problems
+* Maximum product subarray
+* best time to buy and sell stock
