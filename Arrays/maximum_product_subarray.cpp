@@ -1,3 +1,4 @@
+// PROBLEM LINK: https://leetcode.com/problems/maximum-product-subarray/
 int maxProduct(vector<int>& arr) {
         // modified kadane's algorithm
         // issue is when we encounter a negative number
