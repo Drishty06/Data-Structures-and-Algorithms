@@ -141,3 +141,5 @@
 ### 2. Learnt About Sets and Maps 
 ### 3. Solved following problems
 * Wildcard Matching
+* Count distinct elements
+* Count frequency
