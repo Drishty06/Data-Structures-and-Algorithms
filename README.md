@@ -114,7 +114,14 @@
 
 ## 🔺Day 14 : 
 ### 1. Learnt basics of oops
-### 2. Learnt Maps and unoredered maps
+### 2. Learnt Maps and unordered maps
 ### 3. Solved following problems
 * Maximum product subarray
 * best time to buy and sell stock
+
+
+## 🔺Day 15 : 
+### 1. Completed basics of Hashing and created README inside Hashing folder to list down the conclusion
+### 2. Learnt About Sets and Maps 
+### 3. Solved following problems
+*
