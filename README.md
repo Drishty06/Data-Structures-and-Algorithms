@@ -143,3 +143,8 @@
 * Wildcard Matching
 * Count distinct elements
 * Count frequency
+
+## 🔺Day 16 : 
+### 1. Learnt some more hashing concepts
+### 2. Learnt some precomputation techniques in 2D arrays 
+
