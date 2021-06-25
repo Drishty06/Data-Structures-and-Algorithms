@@ -145,6 +145,7 @@
 * Count frequency
 
 ## 🔺Day 16 : 
-### 1. Learnt some more hashing concepts
-### 2. Learnt some precomputation techniques in 2D arrays 
+### 1. Appeared for Codeforces Round 728 and solved just one question
+### 2. Learnt some more hashing concepts
+### 3. Learnt some precomputation techniques in 2D arrays 
 
