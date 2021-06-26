@@ -152,4 +152,11 @@
 ### 3. Learnt some precomputation techniques in 2D arrays 
 
 ## 🔺Day 17 : 
-### 1.
+### 1. Appeared For CodeChef Lunchtime and solved 4 problems and upsolved one more
+* Richie Rich
+* False Numbers
+* HTML tags
+* Unpleasant Ones
+* From Rational to Binary (Upsolved)
+### 2. Focused on Hashing concepts
+### 3. Appended Math Tricks folder by adding "Recurring Decimal" 
