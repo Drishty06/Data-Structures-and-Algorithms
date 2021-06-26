@@ -145,7 +145,11 @@
 * Count frequency
 
 ## 🔺Day 16 : 
-### 1. Appeared for Codeforces Round 728 and solved just one question
+### 1. Appeared for Codeforces Round 728 and solved one question and upsolved 1 more
+* pretty permutations
+* pleasant pairs
 ### 2. Learnt some more hashing concepts
 ### 3. Learnt some precomputation techniques in 2D arrays 
 
+## 🔺Day 17 : 
+### 1.
