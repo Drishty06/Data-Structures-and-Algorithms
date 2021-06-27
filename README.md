@@ -172,4 +172,4 @@
 * count pairs with given sum
 * subarray with sum 0
 * subarray with given sum
-* 
+* array manipulation
