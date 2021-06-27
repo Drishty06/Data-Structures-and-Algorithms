@@ -166,6 +166,7 @@
 * Cyclic quadrilateral
 * chess match
 * total correct submissions
+* chef and queries
 ### 2. Solved following problems on hashing :
 * Union of two arrays
 * Intersection of two arrays
