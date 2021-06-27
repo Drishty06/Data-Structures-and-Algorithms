@@ -4,8 +4,8 @@
 
 #include <bits/stdc++.h>
 using namespace std;
-const int n = 1e7+10; // large sized arrays should be declared globally
-long long int arr[n]; // globally declared arrays will be intialized to zero
+const int N = 1e7+10; // large sized arrays should be declared globally
+long long int arr[N]; // globally declared arrays will be intialized to zero
 
 int main() 
 { 
