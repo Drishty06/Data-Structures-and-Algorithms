@@ -160,3 +160,16 @@
 * From Rational to Binary (Upsolved)
 ### 2. Focused on Hashing concepts
 ### 3. Appended Math Tricks folder by adding "Recurring Decimal" 
+
+## 🔺Day 18 : 
+### 1. Appeared For CodeChef Starters and solved 3 problems and upsolved one more
+* Cylic quadrilateral
+* chess match
+* total correct submissions
+### 2. Solved following problems on hashing :
+* Union of two arrays
+* Intersection of two arrays
+* count pairs with given sum
+* subarray with sum 0
+* subarray with given sum
+* 
