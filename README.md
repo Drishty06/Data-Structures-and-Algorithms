@@ -163,7 +163,7 @@
 
 ## 🔺Day 18 : 
 ### 1. Appeared For CodeChef Starters and solved 3 problems and upsolved one more
-* Cylic quadrilateral
+* Cyclic quadrilateral
 * chess match
 * total correct submissions
 ### 2. Solved following problems on hashing :
