@@ -174,3 +174,11 @@
 * subarray with sum 0
 * subarray with given sum
 * array manipulation
+
+## 🔺Day 19 : 
+### 1. Solved following problems:
+* longest subarray of 0s and 1s
+* longest subarray with sum k
+* longest span in two binary arrays
+* longest consecutive subsequence
+
