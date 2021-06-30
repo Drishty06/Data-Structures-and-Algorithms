@@ -182,3 +182,8 @@
 * longest span in two binary arrays
 * longest consecutive subsequence
 
+
+## 🔺Day 20 : 
+### 1. Solved following problems:
+*
+
