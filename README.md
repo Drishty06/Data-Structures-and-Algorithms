@@ -185,5 +185,9 @@
 
 ## 🔺Day 20 : 
 ### 1. Solved following problems:
-*
+* Second most repeated string in a subsequence
+* array subset od another array
+* longest consecutive subsequence
+* smallest distinct window
+### 2. Started with lil bit of Recursion
 
