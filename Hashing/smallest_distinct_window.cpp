@@ -1,5 +1,5 @@
 // problem link: https://practice.geeksforgeeks.org/problems/smallest-distant-window3132/1
-// my Youtube explanation video: 
+// my Youtube explanation video: https://www.youtube.com/watch?v=BMaTDPa2oh8
 // window sliding + two pointer approach
 // string aabcbcdbca
 string findSubString(string str)
