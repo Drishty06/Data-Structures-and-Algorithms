@@ -190,3 +190,8 @@
 * longest consecutive subsequence
 ### 2. Started with lil bit of Recursion
 
+## 🔺Day 21 : 
+### 1. Solved following problems:
+* Smallest Distinct Window
+* Count distinct elements in every window 
+* Smallest window in a string containing all the characters of another string
