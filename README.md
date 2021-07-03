@@ -195,3 +195,7 @@
 * Smallest Distinct Window
 * Count distinct elements in every window 
 * Smallest window in a string containing all the characters of another string
+
+
+## 🔺Day 22 : 
+### 1. Solved XxOoRr from Codechef July Long Challenge (will upload here as the contest gets over)
