@@ -198,4 +198,8 @@
 
 
 ## 🔺Day 22 : 
-### 1. Solved XxOoRr from Codechef July Long Challenge (will upload here as the contest gets over)
+### 1. Solved following problems: 
+* XxOoRr from Codechef July Long Challenge (will upload here as the contest gets over)
+* Odd set from Codeforces round #729
+* longest subarray with sum divisible by k
+### 2. continued Recursion learning series
