@@ -207,3 +207,6 @@
 
 ## 🔺Day 23 : 
 ### 1. Learnt Basic matrix questions
+
+## 🔺Day 24 : 
+### 1.
