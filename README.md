@@ -204,3 +204,6 @@
 * Upsolved plus and multiply Codeforces round #729
 * longest subarray with sum divisible by k
 ### 2. continued Recursion learning series
+
+## 🔺Day 23 : 
+### 1. Learnt Basic matrix questions
