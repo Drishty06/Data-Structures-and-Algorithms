@@ -209,4 +209,12 @@
 ### 1. Learnt Basic matrix questions
 
 ## 🔺Day 24 : 
-### 1.
+### 1. Solved following problems:
+* Rotate image
+* Spiral traversal of a matrix
+* Search an element in the matrix
+* Find row with maximum number of 1s
+* Print elements in sorted order using row-column wise sorted matrix
+* boolen matrix problem
+* make matrix beautiful
+2.  
