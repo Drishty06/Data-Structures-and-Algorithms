@@ -217,4 +217,6 @@
 * Print elements in sorted order using row-column wise sorted matrix
 * boolen matrix problem
 * make matrix beautiful
-2.  
+2. Added following under math tricks folder:
+* Primality test
+* sieve of erathosthenes 
