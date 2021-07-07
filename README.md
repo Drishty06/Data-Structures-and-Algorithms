@@ -222,8 +222,11 @@
 * sieve of erathosthenes 
 
 ## 🔺Day 25 : 
-### 1. Solved following problems:
+### 1. Appeared for Codeforces round #730 and solved two questions
+* Exciting bets
+* Customizing the track
+### 2. Solved following problems:
 * Unique subsets
 * subsets of string
 * palindrome string
-* 
+
