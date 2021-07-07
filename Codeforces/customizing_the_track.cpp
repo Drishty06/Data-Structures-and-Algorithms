@@ -1,5 +1,6 @@
 // problem link: https://codeforces.com/contest/1543/problem/B
 // tried it for multiple test cases and noted the pattern and sectionized the code
+
 #include <bits/stdc++.h>
 using namespace std;
  
