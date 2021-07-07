@@ -1,4 +1,5 @@
-problem link: https://practice.geeksforgeeks.org/problems/subsets-1587115621/1#
+// problem link: https://practice.geeksforgeeks.org/problems/subsets-1587115621/1#
+// my YouTube explanation video: https://www.youtube.com/watch?v=MsxPL9IeA_E
 
     // if you are wondering that the below code is recursion without base case and still working - then 
     // reason: because return value is void and recursive call is inside the for loop and so if the loop condition fails there won't be any recursive call and it will simply return
