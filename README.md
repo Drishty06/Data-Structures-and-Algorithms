@@ -222,4 +222,8 @@
 * sieve of erathosthenes 
 
 ## 🔺Day 25 : 
-### 1.
+### 1. Solved following problems:
+* Unique subsets
+* subsets of string
+* palindrome string
+* 
