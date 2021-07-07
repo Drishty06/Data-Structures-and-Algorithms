@@ -1,5 +1,6 @@
 // problem link: https://codeforces.com/contest/1543/problem/A
 // idea: (during the contest) I tried the question for 4-5 test cases and luckily after a lot research got a pettern which all of them satisfied
+
 #include <bits/stdc++.h>
 using namespace std;
  
