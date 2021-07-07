@@ -206,7 +206,7 @@
 ### 2. continued Recursion learning series
 
 ## 🔺Day 23 : 
-### 1. Learnt Basic matrix questions
+### 1. Solved Basic matrix questions
 
 ## 🔺Day 24 : 
 ### 1. Solved following problems:
@@ -220,3 +220,6 @@
 2. Added following under math tricks folder:
 * Primality test
 * sieve of erathosthenes 
+
+## 🔺Day 25 : 
+### 1.
