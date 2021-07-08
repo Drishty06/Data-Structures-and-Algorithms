@@ -232,3 +232,5 @@
 * print zigzag
 ### 3. Added README.md in recursion and backtracking folder
 
+## 🔺Day 26 :
+### 1. Continued Recursion and Backtracking tutorials
