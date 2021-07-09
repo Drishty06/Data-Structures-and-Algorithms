@@ -234,3 +234,11 @@
 
 ## 🔺Day 26 :
 ### 1. Continued Recursion and Backtracking tutorials
+
+## 🔺Day 27 :
+### 1. Continued Advanced Recursion and Backtracking tutorials
+### 2. Solved following problems:
+* Median of row wise sorted Matrix
+* Find Safe Position
+* And Some basic recursion problems from Pepcoding
+
