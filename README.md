@@ -242,3 +242,14 @@
 * Find Safe Position
 * And Some basic recursion problems from Pepcoding
 
+## 🔺Day 28 :
+### 1. Continued Advanced Recursion and Backtracking tutorials
+### 2. Appeared for Codeforces round #731 and solved two
+* Shortest path and obstacle
+* alphabetical string
+
+## 🔺Day 29 :
+### 1. Continued Advanced Recursion and Backtracking tutorials
+### 2. Appeared for Google kickstart Round D and solved 1 question
+### 3. Appeared for codeforces round #732
+
