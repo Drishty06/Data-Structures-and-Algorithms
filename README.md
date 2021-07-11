@@ -29,21 +29,21 @@
 ## 🔺Day 01 : 
 ### 1. Revised all the sorting Algorithms and created Analysis.md under Sorting folder and added the crux of it there.
 ### 2. Added codes for following sorting algorithms:
-* Selection sort
-* Bubble Sort
-* Insertion sort
-* Merge sort
-* Quick sort
-* Count sort
+* [Selection sort](https://github.com/Drishty06/100-days-code-challenge/blob/main/Sorting/Sorting_Algorithms/Selectionsort.cpp)
+* [Bubble Sort](https://github.com/Drishty06/100-days-code-challenge/blob/main/Sorting/Sorting_Algorithms/Bubblesort.cpp)
+* [Insertion sort](https://github.com/Drishty06/100-days-code-challenge/blob/main/Sorting/Sorting_Algorithms/Insertionsort.cpp)
+* [Merge sort](https://github.com/Drishty06/100-days-code-challenge/blob/main/Sorting/Sorting_Algorithms/Mergesort.cpp)
+* [Quick sort](https://github.com/Drishty06/100-days-code-challenge/blob/main/Sorting/Sorting_Algorithms/Quicksort.cpp)
+* [Count sort](https://github.com/Drishty06/100-days-code-challenge/blob/main/Sorting/Sorting_Algorithms/Countsort.cpp)
 
 ## 🔺Day 02 : 
 ### 1. Solved 2 questions from codechef june long challenge (Couldn't post it here right now since contest is still on😅)
-* Summer heat
-* Bella ciao
+* [Summer heat](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/summer_heat.cpp)
+* [Bella ciao](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/bella_ciao.cpp)
 ### 2. Appeared for Codeforces Educational Round 110.
 ### 3. Solved following Problems:
-* Intersection of two arrays
-* Union of two arrays
+* [Intersection of two arrays](https://github.com/Drishty06/100-days-code-challenge/blob/main/Hashing/intersection_of_two_arrays.cpp)
+* [Union of two arrays](https://github.com/Drishty06/100-days-code-challenge/blob/main/Hashing/union_of_two_arrays.cpp)
 ### 4. Tried but not accepted:
 * Count Inversion
 * Codeforces question B from today's contest
@@ -51,46 +51,41 @@
 
 ## 🔺Day 03 : 
 ### 1. Solved following Problems:
-* Maximum sum of subarray less than or equal to x
-* Subarray with given sum
-* Count occurences of anograms
-* Longest Subarray with atmost K Even elements
+* [Maximum sum of subarray less than or equal to x](https://github.com/Drishty06/100-days-code-challenge/blob/main/Arrays/maximum_sum_of_subarray_less_than_or_equal_to_x.cpp)
+* [Subarray with given sum](https://github.com/Drishty06/100-days-code-challenge/blob/main/Arrays/subarray_with_given_sum.cpp)
+* [Count occurences of anograms](https://github.com/Drishty06/100-days-code-challenge/blob/main/Arrays/count_occurences_of_anograms.cpp)
+* [Longest Subarray with atmost K Even elements](https://github.com/Drishty06/100-days-code-challenge/blob/main/Arrays/longest_subarray_with_atmost_k_even_elements.cpp)
 ### 2. Learnt Basic Searching and Sorting concepts
 
 ## 🔺Day 04 : 
 ### 1. Solved following Problems:
-* Factorial of large numbers
-* Length of longest substring
-* Substring of length k with k-1 distinct elements
-* Rotate a number
-* Chocolate distribution problem
+* [Factorial of large numbers](https://github.com/Drishty06/100-days-code-challenge/blob/main/Strings/factorial_of_large_numbers.cpp)
+* [Length of longest substring](https://github.com/Drishty06/100-days-code-challenge/blob/main/Arrays/length_of_longest_substring.cpp)
+* [Substring of length k with k-1 distinct elements](https://github.com/Drishty06/100-days-code-challenge/blob/main/Arrays/substring_of_length_k_with_k-1_distinct_elements.cpp)
+* [Rotate a number](https://github.com/Drishty06/100-days-code-challenge/blob/main/Arrays/rotate_a_number.java)
+* [Chocolate distribution problem](https://github.com/Drishty06/100-days-code-challenge/blob/main/Sorting/chocolate_distribution_problem.cpp)
 ### 2. Continued learning advanced sorting and searching techniques
 
 ## 🔺Day 05 : 
 ### 1. Solved following Problems:
-* Three way partitioning
-* Sort an array of 0s, 1s, and 2s <br>
-* Sort by set bit count <br>
-* Sort using comparators <br>
+* [Three way partitioning](https://github.com/Drishty06/100-days-code-challenge/blob/main/Sorting/three_way_partitioning.cpp)
+* [Sort an array of 0s, 1s, and 2s](https://github.com/Drishty06/100-days-code-challenge/blob/main/Sorting/sort_an_array_of_0s_1s_and_2s.cpp)
+* [Sort by set bit count](https://github.com/Drishty06/100-days-code-challenge/blob/main/Sorting/sort_by_set_bit.cpp)
+* [Sort using comparators](https://github.com/Drishty06/100-days-code-challenge/blob/main/Sorting/sort_using_comparator.cpp)
 ### 2. Continued learning advanced sorting and searching techniques
 
 ## 🔺Day 06 : 
 ### Contributed to LGM SOC'21 and learnt the basic etiquette of contributing to open source <br>
 
 ## 🔺Day 07 : 
-### 1. Solved following Problems:
-* Three way partitioning
-* Sort an array of 0s, 1s, and 2s 
-* Sort by set bit count 
-* Sort using comparators 
-### 2. Created Math tricks folder and added some basic concepts like:
-* binary exponention
+### 1. Created Math tricks folder and added some basic concepts like:
+* [binary exponention](https://github.com/Drishty06/100-days-code-challenge/blob/main/Math%20tricks/binary_exponention.cpp)
 * gcd using euclidean
 * gcd of arrays 
-### 3. Did some basic Searching Problems
-### 4. Tried but not accepted: 🙁
+### 2. Did some basic Searching Problems
+### 3. Tried but not accepted: 🙁
 * Bitwise Tuple from june long challenge
-### 5. Continued learning advanced sorting and searching techniques
+### 4. Continued learning advanced sorting and searching techniques
 
 ## 🔺Day 08 : 
 ### 1. Solved following Problems:
