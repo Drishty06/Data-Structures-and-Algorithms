@@ -250,4 +250,5 @@
 ### 1. Continued Advanced Recursion and Backtracking tutorials
 ### 2. Appeared for Google kickstart Round D and solved 1 question
 ### 3. Appeared for codeforces round #732
+### 4. Solved permutations of a given string
 
