@@ -5,6 +5,14 @@
         while(start <= end)
         {
             int mid_of_row = (start+end)/2;
+            if(arr[mid_of_row] > mid)
+            {
+                end=mid_of_row-1;
+            }
+            else
+            {
+                start=mid_of_row+1;
+            }
             
         }
         return start;
