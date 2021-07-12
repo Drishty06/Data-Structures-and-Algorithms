@@ -252,3 +252,9 @@
 ### 3. Appeared for codeforces round #732
 ### 4. Solved permutations of a given string
 
+## 🔺Day 30 :
+### 1. Solved following problems:
+* keypad combination 
+* get stair paths
+* Some previous contest questions
+### 2. Continued pepcoding recursion playlist
