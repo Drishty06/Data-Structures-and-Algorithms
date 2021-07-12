@@ -80,8 +80,8 @@
 ## 🔺Day 07 : 
 ### 1. Created Math tricks folder and added some basic concepts like:
 * [binary exponention](https://github.com/Drishty06/100-days-code-challenge/blob/main/Math%20tricks/binary_exponention.cpp)
-* gcd using euclidean
-* gcd of arrays 
+* [gcd using euclidean](https://github.com/Drishty06/100-days-code-challenge/blob/main/Math%20tricks/gcd_by_euclidean.cpp)
+* [gcd of arrays](https://github.com/Drishty06/100-days-code-challenge/blob/main/Math%20tricks/gcd_of_array.cpp)
 ### 2. Did some basic Searching Problems
 ### 3. Tried but not accepted: 🙁
 * Bitwise Tuple from june long challenge
@@ -89,20 +89,20 @@
 
 ## 🔺Day 08 : 
 ### 1. Solved following Problems:
-* Bitwise tuples from june codechef long challenge (will post once the contest gets over)
-* Merge Intervals
+* [Bitwise tuples from june codechef long challenge (will post once the contest gets over)](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/bitwise_tuples.cpp)
+* [Merge Intervals](https://github.com/Drishty06/100-days-code-challenge/blob/main/Sorting/merge_intervals.cpp)
 ### 2. Tried but not accepted:🙁
 * Shortest route from june long challenge
 ### 3. advanced searching techniques
 
 ## 🔺Day 09 : 
 ### 1. Solved following Problem:
-* Solved Shortest route from Codechef June challenege (will be uploading the solution once the contest gets over)
+* [Solved Shortest route from Codechef June challenege (will be uploading the solution once the contest gets over)](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/shortest_route.cpp)
 
 ## 🔺Day 10 : 
 ### 1. Solved following Problems:
-* first occurence using binary search 
-* last occurrence using binary search 
+* [first occurence using binary search](https://github.com/Drishty06/100-days-code-challenge/blob/main/Searching/first_occurence_index.cpp) 
+* [last occurrence using binary search](https://github.com/Drishty06/100-days-code-challenge/blob/main/Searching/last_occurence_index.cpp)
 * count occurrences 
 * square root 
 * number of 1s in a sorted array using binary search 
