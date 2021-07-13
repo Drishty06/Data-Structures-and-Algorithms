@@ -258,3 +258,11 @@
 * get stair paths
 * Some previous contest questions
 ### 2. Continued pepcoding recursion playlist
+
+## 🔺Day 31 :
+### 1. Solved following problems:
+* Print Maze Paths
+* Get maze paths with jumps
+* Print Encodings
+* Rat in a Maze - 1
+### 2. Continued Pepcoding Recursion playlist
