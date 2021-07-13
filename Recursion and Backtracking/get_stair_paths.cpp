@@ -17,7 +17,7 @@ void printPath(int n, string path)
         return;
     }
 	  printPath(n-1, path+"1");
-    printPath(n-2, path+"2");
+          printPath(n-2, path+"2");
 	  printPath(n-3, path+"3");
 
 }
