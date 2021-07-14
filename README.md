@@ -266,3 +266,8 @@
 * Print Encodings
 * Rat in a Maze - 1
 ### 2. Continued Pepcoding Recursion playlist
+
+## 🔺Day 32 :
+### 1. Revised previously covered topics
+### 2. Appeared for codeforces Educational Round 111 and solved 1 problem :
+* Find th array
