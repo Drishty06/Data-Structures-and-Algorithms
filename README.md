@@ -271,3 +271,10 @@
 ### 1. Revised previously covered topics
 ### 2. Appeared for codeforces Educational Round 111 and solved 1 problem :
 * Find th array
+
+## 🔺Day 33 :
+### 1. SOlved following problems:
+* Sudoku Solver
+* Valid Sudoku
+* N Queens
+* N Queens 2
