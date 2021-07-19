@@ -11,10 +11,10 @@
 | Unordered Set | ```O(1)Average O(n)Worst``` | ```O(1)Average O(n)Worst``` |``` -``` | ```O(1)Average O(n)Worst``` | ```O(n)``` |
 | Map | ```O(logn)``` | ```O(logn)``` |``` -``` | ```O(logn)``` | ```O(n)``` |
 | Unordered Map | ```O(1)Average O(n)Worst``` | ```O(1)Average O(n)Worst``` |``` -``` | ```O(1)Average O(n)Worst``` | ```O(n)``` |
+| Singly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 <!-- | Queue | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | Stack | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | HashMap | ```O(1)``` | ```O(1)``` | ```O(1)``` | ```O(1)``` | ```O(n)``` |
-| Singly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | Doubly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | Circular Singly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | Circular Doubly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
@@ -280,4 +280,5 @@
 * N Queens 2
 
 ## 🔺Day 34 :
-### 1. Covered singly Linkedlist and its basic functions
+### 1. [Covered singly Linkedlist and its basic functions](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/basic_functions_singly_linkedlist.cpp)
+
