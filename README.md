@@ -273,8 +273,11 @@
 * Find th array
 
 ## 🔺Day 33 :
-### 1. SOlved following problems:
+### 1. Solved following problems:
 * Sudoku Solver
 * Valid Sudoku
 * N Queens
 * N Queens 2
+
+## 🔺Day 34 :
+### 1. Covered singly Linkedlist and its basic functions
