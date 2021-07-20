@@ -1,21 +1,21 @@
 // singly linked list
 // index:
 // 1. creating a linked list by: 
-//    a. manually adding one by one (line: )
-//    b. knowing the number of nodes and then taking inputs accordingly (line: )
+//    a. manually adding one by one (line: 135)
+//    b. knowing the number of nodes and then taking inputs accordingly (line: 154)
 // 2. printing the linked list
-//    a. iterative solution
-//    b. recursive solution
+//    a. iterative solution (line: 35)
+//    b. recursive solution (line: 46)
 // 3. insertion of an element in the linked list
-//    a. insertion at the beginning
-//    b. insertion at the end
-//    c. insertion in the middle
+//    a. insertion at the beginning (line: 54)
+//    b. insertion at the end (line: 62)
+//    c. insertion in the middle (line: )
 // 4. searching for an element in linked list
-//    a. iterative solution
-//    b. recursive solution
+//    a. iterative solution (line: 76)
+//    b. recursive solution (line: 93)
 // 5. deletion of an element in linked list
-//    a. deletion from beginning
-//    b. deletion from end
+//    a. deletion from beginning (line: 106)
+//    b. deletion from end (line: 114)
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -111,7 +111,7 @@ Node *delete_first(Node *head)
 	return temp; // returning temp as the new head
 }
 
-// 5. (a) deletion of first element from end
+// 5. (b) deletion of first element from end
 Node *delete_last(Node *head)
 {
 	if(head == NULL) return NULL;
