@@ -282,3 +282,12 @@
 ## 🔺Day 34 :
 ### 1. [Covered singly Linkedlist and its basic functions](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/basic_functions_singly_linkedlist.cpp)
 
+## 🔺Day 35 :
+### 1. Learnt about Doubly linked list
+### 2. Solved following problems:
+* [Reverse a linked list](https://github.com/Drishty06/100-days-code-challenge/new/main/Linked%20List)
+* [Reverse linked list in groups of given size](https://github.com/Drishty06/100-days-code-challenge/new/main/Linked%20List)
+* [Nth node from end of linked list](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/nth_node_from_end_of_the_linked_list.cpp)
+* [Remove duplicates from sorted linked list](https://github.com/Drishty06/100-days-code-challenge/new/main/Linked%20List)
+* [Middle element of linked list](https://github.com/Drishty06/100-days-code-challenge/new/main/Linked%20List)
+* Basic functions of doubly linked list
