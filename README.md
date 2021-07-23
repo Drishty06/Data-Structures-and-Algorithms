@@ -290,4 +290,7 @@
 * [Nth node from end of linked list](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/nth_node_from_end_of_the_linked_list.cpp)
 * [Remove duplicates from sorted linked list](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/remove_duplicates_from_sorted_linked_list.cpp)
 * [Middle element of linked list](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/middle_element_of_linked_list.cpp)
-* Basic functions of doubly linked list
+* [Basic functions of doubly linked list](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/basic_functions_of_doubly_linkedlist.cpp)
+
+## 🔺Day 36 :
+### 1.
