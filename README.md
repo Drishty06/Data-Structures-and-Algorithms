@@ -280,7 +280,7 @@
 * N Queens 2
 
 ## 🔺Day 34 :
-### 1. [Covered singly Linkedlist and its basic functions](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/basic_functions_singly_linkedlist.cpp)
+### 1. [Covered singly Linkedlist and its basic functions](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/basic_functions_of_singly_linkedlist.cpp)
 
 ## 🔺Day 35 :
 ### 1. Learnt about Doubly linked list
