@@ -298,5 +298,5 @@
 ### 3. Solved some basic problems on doubly linked list and circular linked list
 ### 4. Appeared for Codeforces Round #734 Div 2 and solved 2 questions and upsolved one more
 * [A - Polycarp and coins](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/polycarp_and_coins.cpp)
-* [B - [Wonderful Coloring - 1](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/wonderful_coloring-1.cpp)
-* [C - [Wonderful Coloring - 2]()
+* [B - Wonderful Coloring - 1](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/wonderful_coloring-1.cpp)
+* [C - Wonderful Coloring - 2]()
