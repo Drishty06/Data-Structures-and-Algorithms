@@ -103,89 +103,89 @@
 ### 1. Solved following Problems:
 * [first occurence using binary search](https://github.com/Drishty06/100-days-code-challenge/blob/main/Searching/first_occurence_index.cpp) 
 * [last occurrence using binary search](https://github.com/Drishty06/100-days-code-challenge/blob/main/Searching/last_occurence_index.cpp)
-* count occurrences 
+* [count occurrences](https://github.com/Drishty06/100-days-code-challenge/blob/main/Searching/count_occurences_in_sorted_array.cpp) 
 * square root 
 * number of 1s in a sorted array using binary search 
 
 ## 🔺Day 11 : 
 ### 1. Solved following Problem:
-* Book Allocation problem
+* [Book Allocation problem](https://github.com/Drishty06/100-days-code-challenge/blob/main/Searching/book_allocation.cpp)
 ### 2. Revised previously learnt concepts
 
 
 ## 🔺Day 12 : 
 ### 1. Solved following Problems:
-* Peak element
-* Search in rotated array
-* consecutive sum which ends up to a given number
+* [Peak element](https://github.com/Drishty06/100-days-code-challenge/blob/main/Searching/peak_element.cpp)
+* [Search in rotated array](https://github.com/Drishty06/100-days-code-challenge/blob/main/Searching/search_in_rotated_array.cpp)
+* [consecutive sum which ends up to a given number](https://github.com/Drishty06/100-days-code-challenge/blob/main/Math%20tricks/consecutive_numbers_that_sum_up_to_given_number.cpp)
 
 ## 🔺Day 13 : 
 ### 1. Solved following Problems:
-* Minimum number of days to make m bouquets
-* Common elements in three sorted arrays
-* consecutive sum which ends up to a given number
-* find pair difference
+* [Minimum number of days to make m bouquets](https://github.com/Drishty06/100-days-code-challenge/blob/main/Searching/minimum_number_of_days_to_make_m_bouquets.cpp)
+* [Common elements in three sorted arrays](https://github.com/Drishty06/100-days-code-challenge/blob/main/Searching/common_elements_in_3_sorted_arrays.cpp)
+* [consecutive sum which ends up to a given number](https://github.com/Drishty06/100-days-code-challenge/blob/main/Math%20tricks/consecutive_numbers_that_sum_up_to_given_number.cpp)
+* [find pair difference](https://github.com/Drishty06/100-days-code-challenge/blob/main/Searching/find_pair_difference.cpp)
 
 ## 🔺Day 14 : 
 ### 1. Learnt basics of oops
 ### 2. Learnt Maps and unordered maps
 ### 3. Solved following problems
-* Maximum product subarray
-* best time to buy and sell stock
+* [Maximum product subarray](https://github.com/Drishty06/100-days-code-challenge/blob/main/Arrays/maximum_product_subarray.cpp)
+* [best time to buy and sell stock](https://github.com/Drishty06/100-days-code-challenge/blob/main/Arrays/buy_sell_stock.cpp)
 
 
 ## 🔺Day 15 : 
-### 1. Completed basics of Hashing and created README inside Hashing folder to list down the conclusion
+### 1. Completed basics of Hashing and created inside Hashing folder to list down the conclusion
 ### 2. Learnt About Sets and Maps 
 ### 3. Solved following problems
-* Wildcard Matching
-* Count distinct elements
-* Count frequency
+* [Wildcard Matching](https://github.com/Drishty06/100-days-code-challenge/blob/main/Strings/wildcard_matching.cpp)
+* [Count distinct elements](https://github.com/Drishty06/100-days-code-challenge/blob/main/Hashing/count_distinct_elements.cpp)
+* [Count frequency](https://github.com/Drishty06/100-days-code-challenge/blob/main/Hashing/count_frequency.cpp)
 
 ## 🔺Day 16 : 
 ### 1. Appeared for Codeforces Round 728 and solved one question and upsolved 1 more
-* pretty permutations
-* pleasant pairs
+* [A - pretty permutations](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/pretty_permutations.cpp)
+* [B - pleasant pairs](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/pleasant_pairs.cpp)
 ### 2. Learnt some more hashing concepts
 ### 3. Learnt some precomputation techniques in 2D arrays 
 
 ## 🔺Day 17 : 
 ### 1. Appeared For CodeChef Lunchtime and solved 4 problems and upsolved one more
-* Richie Rich
-* False Numbers
-* HTML tags
-* Unpleasant Ones
-* From Rational to Binary (Upsolved)
+* [Richie Rich](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/richie_rich.cpp)
+* [False Numbers](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/false_number.cpp)
+* [HTML tags](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/html_tags.cpp)
+* [Unpleasant Ones](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/unpleasant_ones.cpp)
+* [From Rational to Binary (Upsolved)](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/from_rational_to_binary.cpp)
 ### 2. Focused on Hashing concepts
-### 3. Appended Math Tricks folder by adding "Recurring Decimal" 
+### 3. Appended Math Tricks folder by adding ["Recurring Decimal"](https://github.com/Drishty06/100-days-code-challenge/blob/main/Math%20tricks/recurring_decimal.cpp) 
 
 ## 🔺Day 18 : 
 ### 1. Appeared For CodeChef Starters and solved 3 problems and upsolved one more
-* Cyclic quadrilateral
-* chess match
-* total correct submissions
+* [Cyclic quadrilateral](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/cyclic_quadrilateral.cpp)
+* [chess match](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/chess_match.cpp)
+* [total correct submissions](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/total_correct_submissions.cpp)
 * chef and queries
 ### 2. Solved following problems on hashing :
-* Union of two arrays
-* Intersection of two arrays
-* count pairs with given sum
-* subarray with sum 0
-* subarray with given sum
-* array manipulation
+* [Union of two arrays](https://github.com/Drishty06/100-days-code-challenge/blob/main/Hashing/union_of_two_arrays.cpp)
+* [Intersection of two arrays](https://github.com/Drishty06/100-days-code-challenge/blob/main/Hashing/intersection_of_two_arrays.cpp)
+* [count pairs with given sum](https://github.com/Drishty06/100-days-code-challenge/blob/main/Hashing/count_pairs_with_given_sum.cpp)
+* [subarray with sum 0](https://github.com/Drishty06/100-days-code-challenge/blob/main/Hashing/subarray_with_sum_0.cpp)
+* [subarray with given sum](https://github.com/Drishty06/100-days-code-challenge/blob/main/Hashing/subarray_with_given_sum.cpp)
+* [array manipulation](https://github.com/Drishty06/100-days-code-challenge/blob/main/Prefix%20Sum/array_manipulation.cpp)
 
 ## 🔺Day 19 : 
 ### 1. Solved following problems:
-* longest subarray of 0s and 1s
-* longest subarray with sum k
-* longest span in two binary arrays
-* longest consecutive subsequence
+* [longest subarray of 0s and 1s](https://github.com/Drishty06/100-days-code-challenge/blob/main/Hashing/longest_subarray_of_0s_and_1s.cpp)
+* [longest subarray with sum k](https://github.com/Drishty06/100-days-code-challenge/blob/main/Hashing/longest_subarray_with_sum_k.cpp)
+* [longest span in two binary arrays](https://github.com/Drishty06/100-days-code-challenge/blob/main/Hashing/longest_span_in_two_binary_arrays.cpp)
+* [longest consecutive subsequence](https://github.com/Drishty06/100-days-code-challenge/blob/main/Hashing/longest_consecutive_subsequence.cpp)
 
 
 ## 🔺Day 20 : 
 ### 1. Solved following problems:
-* Second most repeated string in a subsequence
-* array subset od another array
-* longest consecutive subsequence
+* [Second most repeated string in a subsequence](https://github.com/Drishty06/100-days-code-challenge/blob/main/Hashing/second_most_repeated_string_in_a_subsequence.cpp)
+* [array subset of another array](https://github.com/Drishty06/100-days-code-challenge/blob/main/Hashing/array_is_a_subset_of_another_array.cpp)
+* [longest consecutive subsequence](https://github.com/Drishty06/100-days-code-challenge/blob/main/Hashing/longest_consecutive_subsequence.cpp)
 ### 2. Started with lil bit of Recursion
 
 ## 🔺Day 21 : 
@@ -297,6 +297,6 @@
 ### 2. Covered [Basic functions of circular linked list](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/basic_functions_of_circular_linkedlist.cpp)
 ### 3. Solved some basic problems on doubly linked list and circular linked list
 ### 4. Appeared for Codeforces Round #734 Div 2 and solved 2 questions and upsolved one more
-* A - [Polycarp and coins](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/polycarp_and_coins.cpp)
-* B - [Wonderful Coloring - 1](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/wonderful_coloring-1.cpp)
-* C - [Wonderful Coloring - 2]()
+* [A - Polycarp and coins](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/polycarp_and_coins.cpp)
+* [B - [Wonderful Coloring - 1](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/wonderful_coloring-1.cpp)
+* [C - [Wonderful Coloring - 2]()
