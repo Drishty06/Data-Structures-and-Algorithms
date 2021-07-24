@@ -300,3 +300,19 @@
 * [A - Polycarp and coins](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/polycarp_and_coins.cpp)
 * [B - Wonderful Coloring - 1](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/wonderful_coloring-1.cpp)
 * [C - Wonderful Coloring - 2]()
+
+## 🔺Day 37 :
+### 1. Appeared for Codechef Div 3 starters and solved 4 problema:
+* [cricket ranking](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/cricket_ranking.cpp)
+* [three dices](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/three_dices.cpp)
+* [joker and batman](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/joker_and_batman.cpp)
+* [even tuples](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/even_tuples.cpp)
+### 2. Covered advanced linked list concepts
+### 3. SOlved some basic problems on linked list:
+* [delete kth node from circular linked list](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/delete_kth_node_from_circular_linked_list.cpp)
+* [detect a loop](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/detect_a_loop.cpp)
+* [length of the loop](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/length_of_the_loop.cpp)
+* [remove a loop](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/remove_a_loop.cpp)
+* [remove duplicates from sorted list](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/remove_duplicates_from_sorted_linked_list.cpp)
+* [reverse a doubly linked list](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/reverse_doubly_linked_list.cpp)
+
