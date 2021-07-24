@@ -1,3 +1,4 @@
+// problem link:https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1
 // methods:
     // 1. Naive: O(n^2): traverse through whole linked list and once we reach last node we use another loop to check if node->next = current node (by iterating till n-1 th node)
     // 2. Modify structure of node: O(n): we add bool variable = visited inside the structure of linked list. we traverse through the linked list once and if last node is connected back to any of the nodes, node->next will then point to a node whose visited is true. if that occurs that means there exists a loop
