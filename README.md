@@ -316,3 +316,11 @@
 * [remove duplicates from sorted list](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/remove_duplicates_from_sorted_linked_list.cpp)
 * [reverse a doubly linked list](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/reverse_doubly_linked_list.cpp)
 
+## 🔺Day 38 :
+### 1. Solved following problems on linked list
+* [rotate a linked list](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/rotate_linked_list.cpp)
+* [add two numbers represented by linked lists](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/add_2_numbers_represented_by_linked_list.cpp)
+* [remove duplicates from unsorted linked list](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/remove_duplicates_from_unsorted_linked_list.cpp)
+* [add 1 to number represnted by linked list](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/add_1_to_number_represented_as_linked_list.cpp)
+* [intersection of two sorted linked lists](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/intersection_of_two_sorted_linked_lists.cpp)
+
