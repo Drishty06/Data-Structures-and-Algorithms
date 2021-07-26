@@ -317,10 +317,21 @@
 * [reverse a doubly linked list](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/reverse_doubly_linked_list.cpp)
 
 ## 🔺Day 38 :
-### 1. Solved following problems on linked list
+### 1. Solved following problems on linked list :
 * [rotate a linked list](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/rotate_linked_list.cpp)
 * [add two numbers represented by linked lists](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/add_2_numbers_represented_by_linked_list.cpp)
 * [remove duplicates from unsorted linked list](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/remove_duplicates_from_unsorted_linked_list.cpp)
 * [add 1 to number represnted by linked list](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/add_1_to_number_represented_as_linked_list.cpp)
 * [intersection of two sorted linked lists](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/intersection_of_two_sorted_linked_lists.cpp)
+
+## 🔺Day 39 :
+### 1. Solved following problems on linked lists : 
+* [Intersection Point in Y Shapped Linked Lists](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/intersection_point_in_Y_shapped_linked_lists.cpp)
+* [Check If Circular Linked List](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/check_if_circular_linked_list.cpp)
+* [Split a Circular Linked List into two halves](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/split_circular_linked_list_into_two_halves.cpphttps://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/split_circular_linked_list_into_two_halves.cpp)
+* [Check if Linked List is Palindrome](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/check_if_linked_list_is_palindrome.cpp)
+* [Given a linked list of 0s, 1s and 2s, sort it](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/given_linked_list_of_0s_1s_and_2s_sort_it.cpp)
+* [Segregate even and odd nodes in a Link List](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/segregate_even_and_odd_nodes_in_linked_list.cpp)
+* [multiply two linked lists](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/multiply_two_linked_lists.cpp)
+* [delete nodes having greater value on its right](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/delete_nodes_having_greater_value_on_right.cpp)
 
