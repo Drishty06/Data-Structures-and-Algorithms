@@ -308,7 +308,7 @@
 * [joker and batman](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/joker_and_batman.cpp)
 * [even tuples](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/even_tuples.cpp)
 ### 2. Covered advanced linked list concepts
-### 3. SOlved some basic problems on linked list:
+### 3. Solved following problems on linked list:
 * [delete kth node from circular linked list](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/delete_kth_node_from_circular_linked_list.cpp)
 * [detect a loop](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/detect_a_loop.cpp)
 * [length of the loop](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/length_of_the_loop.cpp)
