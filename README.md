@@ -335,3 +335,13 @@
 * [multiply two linked lists](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/multiply_two_linked_lists.cpp)
 * [delete nodes having greater value on its right](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/delete_nodes_having_greater_value_on_right.cpp)
 
+## 🔺Day 40 :
+### 1. Revised Linked lists
+### 2. Solved following problems on linked lists :
+* [clone linked list with next and random pointer](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/clone_a_linked_list_with_next_and_random_pointer.cpp)
+* [delete without head pointer](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/delete_without_head_pointer.cpp)
+* [pairwise swap of nodes of linked list](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/pairwise_swap_of_nodes_in_linked_list.cpp)
+### 3. Appeared for codeforces round 735 and solved one question:
+* [A - cherry](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/cherry.cpp)
+
+
