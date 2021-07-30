@@ -344,4 +344,12 @@
 ### 3. Appeared for codeforces round 735 and solved one question:
 * [A - cherry](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/cherry.cpp)
 
-
+## 🔺Day 41 :
+### 1. Solved following questions on bit manipulation
+* [count total set bits for number 1 to n](https://github.com/Drishty06/100-days-code-challenge/blob/main/Bit%20Manipulation/count_total_set_bits_for_numbers_from_1_to_n.cpp)
+* [non repeating numbers](https://github.com/Drishty06/100-days-code-challenge/blob/main/Bit%20Manipulation/non_repeating_numbers.cpp)
+* [bit difference](https://github.com/Drishty06/100-days-code-challenge/blob/main/Bit%20Manipulation/bit_difference.cpp)
+* [number of 1 bits](https://github.com/Drishty06/100-days-code-challenge/blob/main/Bit%20Manipulation/number_of_1_bits.cpp)
+* [bit manipulation](https://github.com/Drishty06/100-days-code-challenge/blob/main/Bit%20Manipulation/bit_manipulation.cpp)
+### 2. Appeared for codforeces educational round 112 and solved one question
+* [A - pizzaForces](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/pizzaForces.cpp)
