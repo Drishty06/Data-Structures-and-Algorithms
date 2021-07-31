@@ -25,3 +25,4 @@ void printKthBit(unsigned int n, unsigned int k)
 {
     cout << ((n & (1 << (k - 1))) >> (k - 1));
 }
+
