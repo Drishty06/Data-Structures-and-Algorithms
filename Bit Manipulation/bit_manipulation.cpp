@@ -17,3 +17,7 @@ int updatebit(long long int n, long long int k, long long int value)
     n=n&temp;
     return (n | (value << k)); 
 } 
+int toggleBit(int n, int k)
+{
+    return (n ^ (1 << (k - 1)));
+}
