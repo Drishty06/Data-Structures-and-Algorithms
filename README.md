@@ -353,3 +353,15 @@
 * [bit manipulation](https://github.com/Drishty06/100-days-code-challenge/blob/main/Bit%20Manipulation/bit_manipulation.cpp)
 ### 2. Appeared for codforeces educational round 112 and solved one question
 * [A - pizzaForces](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/pizzaForces.cpp)
+
+## 🔺Day 42 :
+### 1. Solved following questions on bit manipulation
+* [swap all odd and even bits](https://github.com/Drishty06/100-days-code-challenge/blob/main/Bit%20Manipulation/swap_all_odd_and_even_bits.cpp)
+* [power set](https://github.com/Drishty06/100-days-code-challenge/blob/main/Bit%20Manipulation/power_set.cpp)
+* [rightmost different bit](https://github.com/Drishty06/100-days-code-challenge/blob/main/Bit%20Manipulation/rightmost_different_bit.cpp)
+* [find position of set bit](https://github.com/Drishty06/100-days-code-challenge/blob/main/Bit%20Manipulation/find_position_of_set_bit.cpp)
+* [power of two](https://github.com/Drishty06/100-days-code-challenge/blob/main/Bit%20Manipulation/power_of_two.cpp)
+### 2. Appeared for codechef july lunchtime and solved 3 problems:
+* [chef and spells](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/chef_and_spells.cpp)
+* [red alert](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/red_alert.cpp)
+* [beautiful pairs](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/beautiful_pairs.cpp)
