@@ -1,7 +1,7 @@
 // problem link: https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1#
  // hint: num   E	D	C	B	A
     //        0	   0	0	0	0	0
-    //        1    0  0 0	0	1
+    //        1    0 0 0	0	1
     //        2    0	0	0	1	0
     //        3    0	0	0	1	1
     //        4    0	0	1	0	0
