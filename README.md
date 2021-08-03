@@ -365,3 +365,11 @@
 * [chef and spells](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/chef_and_spells.cpp)
 * [red alert](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/red_alert.cpp)
 * [beautiful pairs](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/beautiful_pairs.cpp)
+
+## 🔺Day 43 :
+### 1. Learnt basics of stacks 
+### 2. Solved following problems :
+* [Reverse a string using stacks](https://github.com/Drishty06/100-days-code-challenge/blob/main/Stack/reverse_a_string_using_stack.cpp)
+* [Parenthesis checker](https://github.com/Drishty06/100-days-code-challenge/blob/main/Stack/parenthesis_checker.cpp)
+* [Evaluation of Postfix expression](https://github.com/Drishty06/100-days-code-challenge/blob/main/Stack/evaluation_of_postfix_expression.cpp)
+* [Implementation of two stacks in an array](https://github.com/Drishty06/100-days-code-challenge/blob/main/Stack/implement_two_stacks_in_array.cpp)
