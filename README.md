@@ -190,17 +190,17 @@
 
 ## 🔺Day 21 : 
 ### 1. Solved following problems:
-* Smallest Distinct Window
-* Count distinct elements in every window 
-* Smallest window in a string containing all the characters of another string
+* [Smallest Distinct Window](https://github.com/Drishty06/100-days-code-challenge/blob/main/Hashing/smallest_distinct_window.cpp)
+* [Count distinct elements in every window](https://github.com/Drishty06/100-days-code-challenge/blob/main/Hashing/count_distinct_element_in_every_window.cpp)
+* [Smallest window in a string containing all the characters of another string](https://github.com/Drishty06/100-days-code-challenge/blob/main/Hashing/smallest_window_in_a_string_containing_all_the_characters_of_another_string.cpp)
 
 
 ## 🔺Day 22 : 
 ### 1. Solved following problems: 
-* XxOoRr from Codechef July Long Challenge (will upload here as the contest gets over)
-* Odd set from Codeforces round #729
-* Upsolved plus and multiply Codeforces round #729
-* longest subarray with sum divisible by k
+* [XxOoRr from Codechef July Long Challenge (will upload here as the contest gets over)](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/XxOoRr.cpp)
+* [Odd set from Codeforces round #729](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/odd_set.cpp)
+* [Upsolved plus and multiply Codeforces round #729](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/plus_and_multiply.cpp)
+* [longest subarray with sum divisible by k](https://github.com/Drishty06/100-days-code-challenge/blob/main/Hashing/longest_subarray_with_sum_divisible_k.cpp)
 ### 2. continued Recursion learning series
 
 ## 🔺Day 23 : 
