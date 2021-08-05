@@ -373,3 +373,13 @@
 * [Parenthesis checker](https://github.com/Drishty06/100-days-code-challenge/blob/main/Stack/parenthesis_checker.cpp)
 * [Evaluation of Postfix expression](https://github.com/Drishty06/100-days-code-challenge/blob/main/Stack/evaluation_of_postfix_expression.cpp)
 * [Implementation of two stacks in an array](https://github.com/Drishty06/100-days-code-challenge/blob/main/Stack/implement_two_stacks_in_array.cpp)
+
+## 🔺Day 44 :
+### 1. Covered advanced concepts of stacks
+### 2. Solved following problems :
+* [stock span problem](https://github.com/Drishty06/100-days-code-challenge/blob/main/Stack/stock_span.cpp)
+* [implement k stacks in a single array](https://github.com/Drishty06/100-days-code-challenge/blob/main/Stack/implement_k_stacks_in_an_array.cpp)
+* [next greater element](https://github.com/Drishty06/100-days-code-challenge/blob/main/Stack/next_greater_element.cpp)
+* [maximum rectangular area of histogram](https://github.com/Drishty06/100-days-code-challenge/blob/main/Stack/maximum_rectangular_area_of_histogram.cpp)
+* [special stack](https://github.com/Drishty06/100-days-code-challenge/blob/main/Stack/special_stack.cpp)
+
