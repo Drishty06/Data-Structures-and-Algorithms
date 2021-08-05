@@ -382,4 +382,5 @@
 * [next greater element](https://github.com/Drishty06/100-days-code-challenge/blob/main/Stack/next_greater_element.cpp)
 * [maximum rectangular area of histogram](https://github.com/Drishty06/100-days-code-challenge/blob/main/Stack/maximum_rectangular_area_of_histogram.cpp)
 * [special stack](https://github.com/Drishty06/100-days-code-challenge/blob/main/Stack/special_stack.cpp)
+* [delete middle element of the stack](https://github.com/Drishty06/100-days-code-challenge/blob/main/Stack/delete_middle_element_of_stack.cpp)
 
