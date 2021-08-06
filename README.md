@@ -209,16 +209,16 @@
 
 ## 🔺Day 24 : 
 ### 1. Solved following problems:
-* Rotate image
-* Spiral traversal of a matrix
-* Search an element in the matrix
-* Find row with maximum number of 1s
-* Print elements in sorted order using row-column wise sorted matrix
-* boolen matrix problem
-* make matrix beautiful
+* [Rotate image](https://github.com/Drishty06/100-days-code-challenge/blob/main/Matrix/rotate_image.cpp)
+* [Spiral traversal of a matrix](https://github.com/Drishty06/100-days-code-challenge/blob/main/Matrix/spiral_traversing_of_matrix.cpp)
+* [Search an element in the matrix](https://github.com/Drishty06/100-days-code-challenge/blob/main/Matrix/search_element_in_matrix.cpp)
+* [Find row with maximum number of 1s](https://github.com/Drishty06/100-days-code-challenge/blob/main/Matrix/row_with_max_1s.cpp)
+* [Print elements in sorted order using row-column wise sorted matrix](https://github.com/Drishty06/100-days-code-challenge/blob/main/Matrix/sorted_matrix.cpp)
+* [boolen matrix problem](https://github.com/Drishty06/100-days-code-challenge/blob/main/Matrix/boolen_matrix.cpp)
+* [make matrix beautiful](https://github.com/Drishty06/100-days-code-challenge/blob/main/Matrix/make_matrix_beautiful.cpp)
 2. Added following under math tricks folder:
-* Primality test
-* sieve of erathosthenes 
+* [Primality test](https://github.com/Drishty06/100-days-code-challenge/blob/main/Math%20tricks/primality_test.cpp)
+* [sieve of erathosthenes](https://github.com/Drishty06/100-days-code-challenge/blob/main/Math%20tricks/sieve_of_eratosthenes.cpp)
 
 ## 🔺Day 25 : 
 ### 1. Appeared for Codeforces round #730 and solved two questions
