@@ -387,7 +387,7 @@
 
 
 ## 🔺Day 45 :
-### 1. Statrted learning concept of queues
+### 1. Started learning concepts of queues
 ### 2. Solved following problems on stacks:
 * [the celebrity problem](https://github.com/Drishty06/100-days-code-challenge/blob/main/Stack/celebrity_problem.cpp)
 * [valid substring](https://github.com/Drishty06/100-days-code-challenge/blob/main/Stack/valid_substring.cpp)
