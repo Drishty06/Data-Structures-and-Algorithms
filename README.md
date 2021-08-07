@@ -393,3 +393,11 @@
 * [the celebrity problem](https://github.com/Drishty06/100-days-code-challenge/blob/main/Stack/celebrity_problem.cpp)
 * [valid substring](https://github.com/Drishty06/100-days-code-challenge/blob/main/Stack/valid_substring.cpp)
 
+## 🔺Day 46 :
+### 1. Learnt basic concepts of queues : 
+* Implement queue using arrays
+* Implement queue using circular arrays
+* Implement queue using linked list
+* Implement queue using queue in stl
+### 2. Appeared for icpc and solved one question
+* [The married unmarried riddle](https://github.com/Drishty06/100-days-code-challenge/blob/main/ICPC/the_married_unmarried_riddle.cpp)
