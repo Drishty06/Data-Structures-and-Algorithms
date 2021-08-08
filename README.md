@@ -395,9 +395,9 @@
 
 ## 🔺Day 46 :
 ### 1. Learnt basic concepts of queues : 
-* Implement queue using arrays
-* Implement queue using circular arrays
-* Implement queue using linked list
-* Implement queue using queue in stl
+* [Implement queue using arrays](https://github.com/Drishty06/100-days-code-challenge/blob/main/Queue/implementation_of_queue_using_arrays.cpp)
+* [Implement queue using circular arrays](https://github.com/Drishty06/100-days-code-challenge/blob/main/Queue/implementation_of_queue_using_circular_arrays.cpp)
+* [Implement queue using linked list](https://github.com/Drishty06/100-days-code-challenge/blob/main/Queue/implementation_of_queue_using_linkedlist.cpp)
+* [Implement queue using queue in stl](https://github.com/Drishty06/100-days-code-challenge/blob/main/Queue/implementation_of_queue_stl.cpp)
 ### 2. Appeared for icpc and solved one question
 * [The married unmarried riddle](https://github.com/Drishty06/100-days-code-challenge/blob/main/ICPC/the_married_unmarried_riddle.cpp)
