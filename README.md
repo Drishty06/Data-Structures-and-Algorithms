@@ -401,3 +401,15 @@
 * [Implement queue using queue in stl](https://github.com/Drishty06/100-days-code-challenge/blob/main/Queue/implementation_of_queue_stl.cpp)
 ### 2. Appeared for icpc and solved one question
 * [The married unmarried riddle](https://github.com/Drishty06/100-days-code-challenge/blob/main/ICPC/the_married_unmarried_riddle.cpp)
+
+## 🔺Day 47 :
+### 1. Learnt the concepts of queues and dequeues:
+* [implementation of dequeue using dequeue in stl](https://github.com/Drishty06/100-days-code-challenge/blob/main/Queue/implementation_of_dequeue_stl.cpp) 
+* [implementation of dequeue using doubly linkedlist](https://github.com/Drishty06/100-days-code-challenge/blob/main/Queue/implementation_of_dequeue_using_doubly_linkedlist.cpp)
+### 2. Solved 3 problems from CodeChef August Long Challenge: (will upload after the contest)
+* [Olympics ratings](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/olympics_ratings.cpp)
+* [problem difficulties](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/problem_difficulties.cpp)
+* [chef and bulb invention](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/chef_and_bulb_invention.cpp)
+### 3. Solved following problems:
+* [stack using two queues](https://github.com/Drishty06/100-days-code-challenge/blob/main/Queue/stack_using_two_queues.cpp)
+* [queue reversal](https://github.com/Drishty06/100-days-code-challenge/blob/main/Queue/queue_reversal.cpp)
