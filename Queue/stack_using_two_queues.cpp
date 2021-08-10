@@ -1,3 +1,4 @@
+// PROBLEM LINK: https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1
 // overview: stack follows LIFO and queues follow FIFO
 // for stacks: insertion : at the end and deletion : at the end
 // for queues: insertion : at the end and deletion : from the front
