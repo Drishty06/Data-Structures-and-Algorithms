@@ -413,3 +413,6 @@
 ### 3. Solved following problems:
 * [stack using two queues](https://github.com/Drishty06/100-days-code-challenge/blob/main/Queue/stack_using_two_queues.cpp)
 * [queue reversal](https://github.com/Drishty06/100-days-code-challenge/blob/main/Queue/queue_reversal.cpp)
+
+## 🔺Day 48 :
+### 1. Learnt advanced queue and deque concepts
