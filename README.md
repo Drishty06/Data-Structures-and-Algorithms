@@ -430,3 +430,14 @@
 ### 1. revised previously learnt concepts
 ### 2. Solved one from codechef long challenge
 * [Special Triplets](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/special_triplets.cpp
+
+
+## 🔺Day 51 :
+### 1. Appeared for august division 3 starters and solved 2 questions:
+* [penalty shots](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/penalty_shots.cpp)
+* [javelin qualification](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/javelin_qualification.cpp)
+### 2. Appeared for LGM - HEIST 2021 coding competition and solved 3 questions:
+* [ediblity test](https://github.com/Drishty06/100-days-code-challenge/blob/main/Other%20Competitions/ediblity_test.cpp)
+* [most frequent prime number](https://github.com/Drishty06/100-days-code-challenge/blob/main/Other%20Competitions/most_frequent_prime_number.cpp)
+* [encode the string](https://github.com/Drishty06/100-days-code-challenge/blob/main/Other%20Competitions/encode_the_string.cpp)
+* 
