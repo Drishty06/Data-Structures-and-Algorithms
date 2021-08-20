@@ -6,3 +6,8 @@
 *       Balanced Binary Tree: height of binary tree is at max log2 (N)
 *       Degenerate Binary Tree: A Tree where every internal node has one child. Such trees are performance-wise same as linked list. 
 ![image](https://miro.medium.com/max/6300/1*CMGFtehu01ZEBgzHG71sMg.png) 
+### 2. traversal techniques:
+* DFS (Depth First Search): depth wise traversal
+*       Inorder traversal: LEFT ROOT RIGHT
+*       Preorder traversal: ROOT LEFT RIGHT
+*       Postorder traversal: LEFT RIGHT ROOT   
