@@ -5,3 +5,4 @@
 *       Perfect Binary Tree: all leaf nodes are at same level.
 *       Balanced Binary Tree: height of binary tree is at max log2 (N)
 *       Degenerate Binary Tree: A Tree where every internal node has one child. Such trees are performance-wise same as linked list. 
+![image](https://miro.medium.com/max/6300/1*CMGFtehu01ZEBgzHG71sMg.png) 
