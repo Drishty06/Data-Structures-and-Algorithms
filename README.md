@@ -444,9 +444,9 @@
 ## 🔺Day 52 :
 ### 1. Started learning tree concepts
 ### 2. Solved some basic problems:
-* [Inorder traversal](https://github.com/Drishty06/100-days-code-challenge/blob/main/Tree/inorder_traversal.cpp)
-* [preorder traversal](https://github.com/Drishty06/100-days-code-challenge/blob/main/Tree/preorder_traversal.cpp)
-* [postorder traversal](https://github.com/Drishty06/100-days-code-challenge/blob/main/Tree/postorder_traversal.cpp)
+* [Inorder traversal](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/inorder_traversal_recursive.cpp)
+* [preorder traversal](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/preorder_traversal_recursive.cpp)
+* [postorder traversal](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/postorder_traversal_recursive.cpp)
 * [size of binary tree](https://github.com/Drishty06/100-days-code-challenge/blob/main/Tree/size_of_binary_tree.cpp)
 
 
