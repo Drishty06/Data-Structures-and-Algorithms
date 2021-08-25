@@ -460,5 +460,5 @@
 * [maximum and minimum of binary tree](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/maximum_and_minimum_of_binary_tree.cpp)
 
 
-## 🔺Day 53 :
+## 🔺Day 54 :
 ### 1. Completed my UI/UX Challenge 1 from developer days and did ux research for an application.
