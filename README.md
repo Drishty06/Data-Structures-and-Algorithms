@@ -465,4 +465,9 @@
 ### 1. Completed my UI/UX Challenge 1 from developer days and did ux research for an application.
 
 ## 🔺Day 55 :
-### 1.
+### 1. Revised all Binary trees concepts (because of long break due to unavoidable conditions).
+### 2. Covered few basic problems:
+* [preorder indorder postorder all in one traversal](https://github.com/Drishty06/100-days-code-challenge/blob/803155f884a7a32de9d9af538ff207984077149e/Binary%20Tree/All_traversals_in_one_code.cpp)
+* [level order traversal](https://github.com/Drishty06/100-days-code-challenge/blob/803155f884a7a32de9d9af538ff207984077149e/Binary%20Tree/level_order_traversal.cpp)
+* [reverse level order traversal](https://github.com/Drishty06/100-days-code-challenge/blob/803155f884a7a32de9d9af538ff207984077149e/Binary%20Tree/reverse_level_order_traversal.cpp)
+### 3. Updated readme and added few notes.
