@@ -471,3 +471,11 @@
 * [level order traversal](https://github.com/Drishty06/100-days-code-challenge/blob/803155f884a7a32de9d9af538ff207984077149e/Binary%20Tree/level_order_traversal.cpp)
 * [reverse level order traversal](https://github.com/Drishty06/100-days-code-challenge/blob/803155f884a7a32de9d9af538ff207984077149e/Binary%20Tree/reverse_level_order_traversal.cpp)
 ### 3. Updated readme and added few notes.
+
+## 🔺Day 55 :
+### 1. Solved following problems:
+* [diameter of binary tree](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/diameter_of_binary_tree.cpp)
+* [left view of binary tree](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/left_view_of_binary_tree.cpp)
+* [right view of binary tree](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/right_view_of_binary_tree.cpp)
+* [zigzag traversal](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/zigzag_traversal.cpp)
+* [check if the tree is balanced or not](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/check_if_tree_is_balanced_or_not.cpp)
