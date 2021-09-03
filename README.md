@@ -223,13 +223,13 @@
 
 ## 🔺Day 25 : 
 ### 1. Appeared for Codeforces round #730 and solved two questions
-* Exciting bets
-* Customizing the track
+* [Exciting bets](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/exciting_bets.cpp)
+* [Customizing the track](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/customizing_the_track.cpp)
 ### 2. Solved following problems:
-* Unique subsets
-* subsets of string
-* palindrome string
-* print zigzag
+* [Unique subsets](https://github.com/Drishty06/100-days-code-challenge/blob/main/Recursion%20and%20Backtracking/unique_subsets.cpp)
+* [subsets of string](https://github.com/Drishty06/100-days-code-challenge/blob/main/Recursion%20and%20Backtracking/subsets_of_string.cpp)
+* [palindrome string](https://github.com/Drishty06/100-days-code-challenge/blob/main/Strings/palindrome_string.cpp)
+* [print zigzag](https://github.com/Drishty06/100-days-code-challenge/blob/main/Recursion%20and%20Backtracking/print_zigzag.java)
 ### 3. Added README.md in recursion and backtracking folder
 
 ## 🔺Day 26 :
@@ -238,15 +238,15 @@
 ## 🔺Day 27 :
 ### 1. Continued Advanced Recursion and Backtracking tutorials
 ### 2. Solved following problems:
-* Median of row wise sorted Matrix
+* [Median of row wise sorted Matrix](https://github.com/Drishty06/100-days-code-challenge/blob/main/Matrix/median_of_row_wise_sorted_matrix.cpp)
 * Find Safe Position
 * And Some basic recursion problems from Pepcoding
 
 ## 🔺Day 28 :
 ### 1. Continued Advanced Recursion and Backtracking tutorials
 ### 2. Appeared for Codeforces round #731 and solved two
-* Shortest path and obstacle
-* alphabetical string
+* [Shortest path and obstacle](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/shortest_path_with_obstacle.cpp)
+* [alphabetical string](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/alphabetical_strings.cpp)
 
 ## 🔺Day 29 :
 ### 1. Continued Advanced Recursion and Backtracking tutorials
@@ -256,30 +256,30 @@
 
 ## 🔺Day 30 :
 ### 1. Solved following problems:
-* keypad combination 
-* get stair paths
+* [keypad combination](https://github.com/Drishty06/100-days-code-challenge/blob/main/Recursion%20and%20Backtracking/possible_words%20from%20phone_digits.cpp)
+* [get stair paths](https://github.com/Drishty06/100-days-code-challenge/blob/main/Recursion%20and%20Backtracking/get_stair_paths.cpp)
 * Some previous contest questions
 ### 2. Continued pepcoding recursion playlist
 
 ## 🔺Day 31 :
 ### 1. Solved following problems:
-* Print Maze Paths
-* Get maze paths with jumps
-* Print Encodings
-* Rat in a Maze - 1
+* [Print Maze Paths](https://github.com/Drishty06/100-days-code-challenge/blob/main/Recursion%20and%20Backtracking/print_maze_paths.cpp)
+* [Get maze paths with jumps](https://github.com/Drishty06/100-days-code-challenge/blob/main/Recursion%20and%20Backtracking/get_maze_paths_with_jumps.cpp)
+* [Print Encodings](https://github.com/Drishty06/100-days-code-challenge/blob/main/Recursion%20and%20Backtracking/print_encodings.cpp)
+* [Rat in a Maze - 1](https://github.com/Drishty06/100-days-code-challenge/blob/main/Recursion%20and%20Backtracking/rat_in_a_maze-1.cpp)
 ### 2. Continued Pepcoding Recursion playlist
 
 ## 🔺Day 32 :
 ### 1. Revised previously covered topics
 ### 2. Appeared for codeforces Educational Round 111 and solved 1 problem :
-* Find th array
+* [Find the array](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/find_the_array.cpp)
 
 ## 🔺Day 33 :
 ### 1. Solved following problems:
-* Sudoku Solver
-* Valid Sudoku
-* N Queens
-* N Queens 2
+* [Sudoku Solver](https://github.com/Drishty06/100-days-code-challenge/blob/main/Recursion%20and%20Backtracking/sudoku_solver.cpp)
+* [Valid Sudoku](https://github.com/Drishty06/100-days-code-challenge/blob/main/Recursion%20and%20Backtracking/valid_sudoku.cpp)
+* [N Queens](https://github.com/Drishty06/100-days-code-challenge/blob/main/Recursion%20and%20Backtracking/n_queens.cpp)
+* [N Queens 2](https://github.com/Drishty06/100-days-code-challenge/blob/main/Recursion%20and%20Backtracking/n_queens2.cpp)
 
 ## 🔺Day 34 :
 ### 1. [Covered singly Linkedlist and its basic functions](https://github.com/Drishty06/100-days-code-challenge/blob/main/Linked%20List/basic_functions_of_singly_linkedlist.cpp)
@@ -429,7 +429,7 @@
 ## 🔺Day 50 :
 ### 1. revised previously learnt concepts
 ### 2. Solved one from codechef long challenge
-* [Special Triplets](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/special_triplets.cpp
+* [Special Triplets](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/special_triplets.cpp)
 
 
 ## 🔺Day 51 :
