@@ -490,3 +490,11 @@
 
 ## 🔺Day 58 :
 ### 1. Solved following problems:
+* [binary tree to doubly linked list](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/binary_tree_to_doubly_linked_list.cpp)
+* [check if binary tree is sum tree](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/check_if_binary_tree_is_sum_tree.cpp)
+* [leaf at same level](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/leaf_at_same_level.cpp)
+* [codeforces educational round 113 problem A](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/balanced_substring.cpp)
+
+## 🔺Day 59 :
+* appeared for desis ascend educare coding round
+* [codeforces educational round 113 problem B](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/chess_tournament.cpp)
