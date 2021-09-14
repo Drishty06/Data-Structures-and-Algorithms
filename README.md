@@ -498,3 +498,6 @@
 ## 🔺Day 59 :
 * appeared for desis ascend educare coding round
 * [codeforces educational round 113 problem B](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/chess_tournament.cpp)
+
+## 🔺Day 60 :
+* Revised Binary Trees
