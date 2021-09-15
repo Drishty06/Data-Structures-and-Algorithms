@@ -508,4 +508,4 @@
 * [the two dishes](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/the_two_dishes.cpp)
 * [obtain the sum](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/obtain_the_sum.cpp)
 * [the grid fill problem](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/the_grid_fill_problem.cpp)
-### solved [lowest common ancestor problem](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/lowest_common_ancestor.cpp)
+### 2. solved [lowest common ancestor problem](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/lowest_common_ancestor.cpp)
