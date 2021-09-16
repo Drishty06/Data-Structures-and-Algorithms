@@ -509,3 +509,10 @@
 * [obtain the sum](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/obtain_the_sum.cpp)
 * [the grid fill problem](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/the_grid_fill_problem.cpp)
 ### 2. solved [lowest common ancestor problem](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/lowest_common_ancestor.cpp)
+
+## 🔺Day 62 :
+### 1. Solved following problems:
+* [burning tree](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/burning_tree.cpp)
+* [node at a given distance](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/node_at_a_given_distance_in_binary_tree.cpp)
+* [construct a binary tree from inorder and preorder](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/construct_binary_tree_from_inorder_and_preorder.cpp)
+* [serialize and deserialize binary tree](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/serialize_and_deserialize_binary_tree.cpp)
