@@ -516,3 +516,11 @@
 * [node at a given distance](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/node_at_a_given_distance_in_binary_tree.cpp)
 * [construct a binary tree from inorder and preorder](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/construct_binary_tree_from_inorder_and_preorder.cpp)
 * [serialize and deserialize binary tree](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/serialize_and_deserialize_binary_tree.cpp)
+
+## 🔺Day 63 :
+### 1. Solved following problems:
+* [sum of the longest bloodline of a tree](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/sum_of_nodes_on_the_longest_path_from_root_to_leaf_node.cpp)
+* [check if tree is isomorphic](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/check_if_tree_is_isomorphic.cpp)
+* [level of a node of binary tree](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/level_of_a_node_of_binary_tree.cpp)
+* [minimum distance between two given nodes](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/minimum_distance_between_two_given_nodes.cpp)
+
