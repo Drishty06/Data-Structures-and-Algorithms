@@ -524,3 +524,11 @@
 * [level of a node of binary tree](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/level_of_a_node_of_binary_tree.cpp)
 * [minimum distance between two given nodes](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/minimum_distance_between_two_given_nodes.cpp)
 
+## 🔺Day 64 :
+### 1. Revised Binary trees since I feel that I am still a little bit weak at this.
+### 2. Solved 2 Codeforces problems:
+* [A-watermelon](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/A-watermelon.cpp)
+* [A-single push](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/A-single_push.cpp)
+
+## 🔺Day 65 :
+### 1. Started with Binary Search Trees
