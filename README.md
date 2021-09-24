@@ -532,3 +532,7 @@
 
 ## 🔺Day 65 :
 ### 1. Started with Binary Search Trees
+### 2. Solved some basic problems:
+* [insert a node in bst](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Search%20Tree/insert_node_in_bst.cpp)
+* [delete a node from bst](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Search%20Tree/delete_node_from_bst.cpp)
+* [Minimum of bst](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Search%20Tree/minimum_element_in_bst.cpp)
