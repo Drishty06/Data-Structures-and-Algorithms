@@ -547,4 +547,15 @@
 * [yet another SOD problem ](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/yet_another_sod_problem.cpp)
 
 ## 🔺Day 67 :
-### 1.
+### 1. Solved problems on BSTs:
+* [check for BST](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Search%20Tree/check_for_BST.cpp)
+* [count BST nodes that lie in a given range](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Search%20Tree/count_BST_nodes_that_lie_in_given_range.cpp)
+* [fixing two nodes of BST](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Search%20Tree/fixing_two_nodes_of_BST.cpp)
+* [kth largest element in BST](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Search%20Tree/kth_largest_element_in_BST.cpp)
+* [kth smallest element in BST](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Search%20Tree/kth_smallest_element_in_BST.cpp)
+* [populate inorder successor of all nodes](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Search%20Tree/populate_inorder_successor_of_all_nodes.cpp)
+* [predecessor and successor](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Search%20Tree/predecessor_and_successor.cpp)
+### 2. Appeared for CodeChef Starters 13 div 2 and solved 3 problems
+* [chef in vaccination queue](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/chef_in_vaccination_queue.cpp)
+* [magical doors](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/magical_doors.cpp)
+* [maximum light up](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/maximum_light_up.cpp)
