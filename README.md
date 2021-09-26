@@ -536,3 +536,15 @@
 * [insert a node in bst](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Search%20Tree/insert_node_in_bst.cpp)
 * [delete a node from bst](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Search%20Tree/delete_node_from_bst.cpp)
 * [Minimum of bst](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Search%20Tree/minimum_element_in_bst.cpp)
+
+## 🔺Day 66 :
+### 1. Learnt about how binary search tree works. Learnt about AVL trees and Red Black trees mechanism
+### 2. Solved Some basic problems:
+* [floor in bst](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Search%20Tree/floor_in_bst.cpp)
+* [ceil in bst](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Search%20Tree/ceil_in_bst.cpp)
+### 3. Appeared for CodeChef September Lunchtime and solved 2 questions in Div 2:
+* [Prefix suma](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/prefix_sums.cpp)
+* [yet another SOD problem ](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/yet_another_sod_problem.cpp)
+
+## 🔺Day 67 :
+### 1.
