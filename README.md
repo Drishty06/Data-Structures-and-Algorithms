@@ -17,10 +17,12 @@
 | Circular Doubly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | Stack | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | Queue | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
-<!-- 
-
 | HashMap | ```O(1)``` | ```O(1)``` | ```O(1)``` | ```O(1)``` | ```O(n)``` |
 | Binary Search Tree | ```O(log n)``` | ```O(log n)``` | ```O(log n)``` | ```O(log n)``` | ```O(n)``` |
+<!-- 
+
+
+
 | Binary Min Heap | ```O(log n)``` | ```O(log n)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` |
 | Binary Max Heap | ```O(log n)``` | ```O(log n)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | -->
 
