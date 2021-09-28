@@ -561,3 +561,14 @@
 * [chef in vaccination queue](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/chef_in_vaccination_queue.cpp)
 * [magical doors](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/magical_doors.cpp)
 * [maximum light up](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codechef/maximum_light_up.cpp)
+
+## 🔺Day 68 :
+### 1. Solved problems on BSTs and some on binary trees:
+* [brothers from different roots](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Search%20Tree/brothers_from_different_roots.cpp)
+* [find a pair with given target in BST](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Search%20Tree/find_a_pair_with_given_target_in_BST.cpp)
+* [find common nodes in two BSTs](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Search%20Tree/find_common_nodes_in_two_BSTs.cpp)
+* [vertical sum](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/vertical_sum.cpp)
+* [vertical traversal of binary tree](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/vertical_traversal_of_Binary_tree.cpp)
+* [top view of binary tree](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/top_view_of_binary_tree.cpp)
+* [bottom view of binary tree](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/bottom_view_of_binary_tree.cpp)
+### 2. 
