@@ -571,4 +571,6 @@
 * [vertical traversal of binary tree](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/vertical_traversal_of_Binary_tree.cpp)
 * [top view of binary tree](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/top_view_of_binary_tree.cpp)
 * [bottom view of binary tree](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Tree/bottom_view_of_binary_tree.cpp)
-### 2. 
+### 2. Appeared for codeforces round #744 div 3 and solved 2 questions:
+* [A-Casimir's string solitaire](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/A-Casimir's_string_solitaire.cpp)
+* [permutation minimization by deque](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/E1-permutation_minimization_by_deque.cpp)
