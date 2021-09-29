@@ -574,3 +574,14 @@
 ### 2. Appeared for codeforces round #744 div 3 and solved 2 questions:
 * [A-Casimir's string solitaire](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/A-Casimir's_string_solitaire.cpp)
 * [permutation minimization by deque](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/E1-permutation_minimization_by_deque.cpp)
+
+## 🔺Day 69 :
+### 1. Solved problems on BSTs:
+* [binary tree to BST](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Search%20Tree/binary_tree_to_BST.cpp)
+* [check whether BST contain dead end](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Search%20Tree/check_whether_BST_contains_dead_end.cpp)
+* [find closest element in BST](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Search%20Tree/find_closest_element_in_BST.cpp)
+* [lowest common ancestor of BST](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Search%20Tree/lowest_common_ancestor_of_BST.cpp)
+* [smaller on right](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Search%20Tree/smaller_on_right.cpp)
+
+## 🔺Day 70 :
+### 1
