@@ -584,4 +584,8 @@
 * [smaller on right](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Search%20Tree/smaller_on_right.cpp)
 
 ## 🔺Day 70 :
-### 1
+### 1. Solved problems on BSTs:
+* [construct BST from preorder](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Search%20Tree/construct_BST_from_preorder.cpp)
+* [merge two BSTs](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Search%20Tree/merge_two_BSTs.cpp)
+### 2. solved a question from codeforces:
+* [A-point on spiral](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/A-point_on_spiral.cpp)
