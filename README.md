@@ -589,3 +589,10 @@
 * [merge two BSTs](https://github.com/Drishty06/100-days-code-challenge/blob/main/Binary%20Search%20Tree/merge_two_BSTs.cpp)
 ### 2. solved a question from codeforces:
 * [A-point on spiral](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/A-point_on_spiral.cpp)
+
+
+## 🔺Day 71 :
+### 1. started learn heaps
+### 2. Solved two questions from codeforces:
+* [charmed by the game](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/B-charmed_by_the_game.cpp)
+* [lever](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/A-lever.cpp)
