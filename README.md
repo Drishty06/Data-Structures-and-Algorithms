@@ -596,3 +596,8 @@
 ### 2. Solved two questions from codeforces:
 * [charmed by the game](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/B-charmed_by_the_game.cpp)
 * [lever](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/A-lever.cpp)
+
+## 🔺Day 72 :
+### 1. started learning graphs from codeNcode playlist
+### 2. solved a question from codeforces:
+* [numbers box](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/B-numbers_box.cpp)
