@@ -1,4 +1,4 @@
-// problem link: 
+// problem link: https://codeforces.com/problemset/problem/478/B
 // we don't have to count the permutations, we have to count only the combinations
  
 #include <bits/stdc++.h>
