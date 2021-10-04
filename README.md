@@ -601,3 +601,9 @@
 ### 1. started learning graphs from codeNcode playlist
 ### 2. solved a question from codeforces:
 * [numbers box](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/B-numbers_box.cpp)
+
+## 🔺Day 73 :
+### 1. continued learning graphs from codeNcode playlist
+### 2. solved 2 questions from codeforces:
+* [fedor and new game](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/B-fedor_and_new_game.cpp)
+* [random teams](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/B-random_teams.cpp)
