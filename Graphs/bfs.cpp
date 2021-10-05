@@ -1,10 +1,13 @@
-     vector<int> bfsOfGraph(int v, vector<int> adj[]) {
+vector<int> bfsOfGraph(int v, vector<int> adj[]) {
         vector<int> bfs;
         vector<int> visited(v, 0);
-        
+        for(int i=0; i<v; i++)
+        {
+            if(visited[i] == 0)
+            {
                 queue<int> q;
-                q.push(0);
-                visited[0] = 1;
+                q.push(i);
+                visited[i] = 1;
                 while(! q.empty())
                 {
                     int top = q.front();
@@ -21,5 +24,7 @@
                         }
                     }
                 }
+            }
+        }
         return bfs;
     }    
