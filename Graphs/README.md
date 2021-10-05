@@ -27,7 +27,8 @@
         }
      }
      ```
-### Depth first search DFS:     
+### Graph traversal techniques: 
+*  Depth first search DFS:     
 ```
      void DFS(int vertex, vector<int> &visited, vector<int> adj[], vector<int> &ans)
     {
@@ -56,7 +57,7 @@
         return ans;
     }   
 ```
-### Breadth first search DFS:     
+*  Breadth first search BFS:     
 ```
      vector<int> bfsOfGraph(int v, vector<int> adj[]) {
         vector<int> bfs;
