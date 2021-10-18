@@ -1,6 +1,6 @@
 ### graphs' theory:
-* 1. Undirected graph: having no orientation of edges. ie., edge (x, y) is identical to edge (x, y)
-* 2. Directed graph: edges have orientation. ie., edge (x, y) is NOT identical to edge (x, y)
+* 1. Undirected graph: having no orientation of edges. ie., edge (x, y) is identical to edge (y, x)
+* 2. Directed graph: edges have orientation. ie., edge (x, y) is NOT identical to edge (y, x)
 * 3. cyclic graphs: if we can reach any node via some other path then there is a cycle in the graph
 * 4. acyclic graphs: opposite of cyclic graphs
 * 5. degree of graphs: number of edges(incoming or outgoing)
