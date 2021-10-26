@@ -616,4 +616,13 @@
 * [partial replacement](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/B-partial_replacement.cpp)
 * [regular bracket sequence](https://github.com/Drishty06/100-days-code-challenge/blob/main/Codeforces/A-regular_bracket_sequence.cpp)
 
+## 🔺Day 76 :
+### 1. solved following questions on graphs:
+* [bipartite graph using bfs](https://github.com/Drishty06/100-days-code-challenge/blob/main/Graphs/bipartite_graph_using_BFS.cpp)
+* [bipartite graph using dfs](https://github.com/Drishty06/100-days-code-challenge/blob/main/Graphs/bipartite_graph_using_DFS.cpp)
+* [detect a cycle in undirected graph using bfs](https://github.com/Drishty06/100-days-code-challenge/blob/main/Graphs/detect_the_cycle_in_undirected_graph_using_BFS.cpp)
+* [detect a cycle in undirected graph using dfs](https://github.com/Drishty06/100-days-code-challenge/blob/main/Graphs/detect_the_cycle_in_undirected_graph_using_DFS.cpp)
 
+## 🔺Day 77 :
+### 1. solved following questions on graphs:
+* [](url)
