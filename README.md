@@ -629,3 +629,12 @@
 * [topological sort using DFS](https://github.com/Drishty06/100-days-code-challenge/blob/main/Graphs/topological_sort_using_dfs.cpp)
 * [topological sort using BFS - kahn's algorithm](https://github.com/Drishty06/100-days-code-challenge/blob/main/Graphs/topological_sort_using_bfs_(kahn's_algorithm).cpp)
 * [detect a cycle in directed graph using BFS - kahn's algo](https://github.com/Drishty06/100-days-code-challenge/blob/main/Graphs/detect_the_cycle_in_directed_graph_using_BFS_(kahn's_algorithm).cpp)
+
+
+## 🔺Day 78 :
+### 1. solved following questions on graphs:
+* [shortest path in undirected graph](https://github.com/Drishty06/100-days-code-challenge/blob/main/Graphs/shortest_path_in_undirected_graph.cpp)
+* [shortest path in directed acyclic graph](https://github.com/Drishty06/100-days-code-challenge/blob/main/Graphs/shortest_path_in_directed_acyclic_weighted_graph.cpp)
+
+## 🔺Day 79 :
+* learnt about heaps and priority queues
