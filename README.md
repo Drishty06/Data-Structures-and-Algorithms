@@ -641,3 +641,8 @@
 
 ## 🔺Day 80 :
 * [Dijkstra's algorithm](https://github.com/Drishty06/100-days-code-challenge/blob/main/Graphs/dijkstra's_algorithm.cpp)
+
+
+## 🔺Day 81 :
+* [prim's a;gorithm for minimum spanning tree - brute force](https://github.com/Drishty06/100-days-code-challenge/blob/main/Graphs/prim's_algo_for_minimum_spanning_of_tree_brute.cpp)
+* [prim's a;gorithm for minimum spanning tree - optimized](https://github.com/Drishty06/100-days-code-challenge/blob/main/Graphs/prim's_algo_for_minimum_spanning_of_tree_optimized.cpp)
