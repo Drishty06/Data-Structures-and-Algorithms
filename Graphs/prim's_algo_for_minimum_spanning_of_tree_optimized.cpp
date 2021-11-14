@@ -60,8 +60,8 @@ int main()
 			if(mst[connected_node] == false && weight < key[connected_node])
 			{
 				parent[connected_node] = u;
-				pq.push({key[connected_node], connected_node});
 				key[connected_node] = weight;
+				pq.push({key[connected_node], connected_node});
 			}
 		}
 
