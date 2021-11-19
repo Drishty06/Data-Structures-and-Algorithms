@@ -646,3 +646,7 @@
 ## 🔺Day 81 :
 * [prim's a;gorithm for minimum spanning tree - brute force](https://github.com/Drishty06/100-days-code-challenge/blob/main/Graphs/prim's_algo_for_minimum_spanning_of_tree_brute.cpp)
 * [prim's a;gorithm for minimum spanning tree - optimized](https://github.com/Drishty06/100-days-code-challenge/blob/main/Graphs/prim's_algo_for_minimum_spanning_of_tree_optimized.cpp)
+
+## 🔺Day 82 :
+* [finding all bridges in a graph](https://github.com/Drishty06/100-days-code-challenge/blob/main/Graphs/bridges_in_a_graph.cpp)
+* [check if given edge is a bridge](https://github.com/Drishty06/100-days-code-challenge/blob/main/Graphs/check_if_given_edge_is_a_bridge.cpp)
