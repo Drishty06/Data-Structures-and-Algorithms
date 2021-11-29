@@ -1,8 +1,7 @@
-<h2 align="center"> 🤩🚀 100-Days-Code-Challenge 🚀🤩 </br> ✨DSA using C++✨ </h2>
+<h2 align="center"> ✨DSA using C++✨ </h2>
 <p align="center">
-<img align="center" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/manufacturetocat.png" width="300"/>
-</p>
 
+  
 ## ⭕ Data Structures in Big O Notation
 | Data Structure | Add/Insert | Remove/Delete | Access/Get | Search/Contains | Space Complexity |
 | --- | --- | --- | --- | --- | --- |
@@ -644,9 +643,18 @@
 
 
 ## 🔺Day 81 :
-* [prim's a;gorithm for minimum spanning tree - brute force](https://github.com/Drishty06/100-days-code-challenge/blob/main/Graphs/prim's_algo_for_minimum_spanning_of_tree_brute.cpp)
+* [prim's algorithm for minimum spanning tree - brute force](https://github.com/Drishty06/100-days-code-challenge/blob/main/Graphs/prim's_algo_for_minimum_spanning_of_tree_brute.cpp)
 * [prim's a;gorithm for minimum spanning tree - optimized](https://github.com/Drishty06/100-days-code-challenge/blob/main/Graphs/prim's_algo_for_minimum_spanning_of_tree_optimized.cpp)
 
 ## 🔺Day 82 :
 * [finding all bridges in a graph](https://github.com/Drishty06/100-days-code-challenge/blob/main/Graphs/bridges_in_a_graph.cpp)
 * [check if given edge is a bridge](https://github.com/Drishty06/100-days-code-challenge/blob/main/Graphs/check_if_given_edge_is_a_bridge.cpp)
+
+## 🔺Day 83 :
+
+| Problem | Topic | Question link | Solution | 
+| --- | --- | --- | --- |
+|longest substring without repeating characters| sliding window | [link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Arrays/longest_substring_without_repeating_characters.cpp) |
+|minimum window substring| sliding window | [link](https://leetcode.com/problems/minimum-window-substring/submissions/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Arrays/minimum_window_substring.cpp) |
+|maximum consecutive ones 3| sliding window |[link](https://leetcode.com/problems/max-consecutive-ones-iii/)| [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Arrays/maximum_consecutive_ones_3.cpp)|
+|longest repeating character replacement| sliding window|[link](https://leetcode.com/problems/longest-repeating-character-replacement/submissions/)| [link](url)|
