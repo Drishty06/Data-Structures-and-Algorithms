@@ -31,6 +31,9 @@
 |longest repeating character replacement| sliding window|[link](https://leetcode.com/problems/longest-repeating-character-replacement/submissions/)| [link](url)|
 |Subarrays with K Different Integers| sliding window | [link](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [link]() | [link](https://leetcode.com/problems/subarrays-with-k-different-integers/discuss/1604221/C%2B%2B-sliding-window-hints-intuition-explained-commented-code) |
 | longest substring with at most k distinct characters | sliding window | leetcode premium | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Arrays/longest_substring_with_at_most_k_distinct_characters.cpp) | [link](https://leetcode.com/problems/subarrays-with-k-different-integers/discuss/1604221/C%2B%2B-sliding-window-hints-intuition-explained-commented-code) |
+| longest subarray with difference less than limit |  | [link](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Arrays/longest_subarray_with_difference_less_than_limit.cpp) | [link](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/discuss/1604652/C%2B%2B-Map-Solution-or-commented-code) |
+
+
 
 ## 🔺Day 00 : 
 ### 1. Added previously solved good questions to the repo which I did before taking up the challenge 
