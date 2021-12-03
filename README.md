@@ -30,12 +30,21 @@
 |longest substring without repeating characters| sliding window | [link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Arrays/longest_substring_without_repeating_characters.cpp) |
 |minimum window substring| sliding window | [link](https://leetcode.com/problems/minimum-window-substring/submissions/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Arrays/minimum_window_substring.cpp) | [link](https://leetcode.com/problems/minimum-window-substring/discuss/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems) | 
 |maximum consecutive ones 3| sliding window |[link](https://leetcode.com/problems/max-consecutive-ones-iii/)| [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Arrays/maximum_consecutive_ones_3.cpp)|
-|longest repeating character replacement| sliding window|[link](https://leetcode.com/problems/longest-repeating-character-replacement/submissions/)| [link](url)|
-|Subarrays with K Different Integers| sliding window | [link](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [link]() | [link](https://leetcode.com/problems/subarrays-with-k-different-integers/discuss/1604221/C%2B%2B-sliding-window-hints-intuition-explained-commented-code) |
+|longest repeating character replacement| sliding window|[link](https://leetcode.com/problems/longest-repeating-character-replacement/submissions/)| [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Arrays/longest_repeating_character_replacement.cpp)|
+|Subarrays with K Different Integers| sliding window | [link](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Arrays/subarrays_with_k_different_integers.cpp) | [link](https://leetcode.com/problems/subarrays-with-k-different-integers/discuss/1604221/C%2B%2B-sliding-window-hints-intuition-explained-commented-code) |
 | longest substring with at most k distinct characters | sliding window | leetcode premium | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Arrays/longest_substring_with_at_most_k_distinct_characters.cpp) | [link](https://leetcode.com/problems/subarrays-with-k-different-integers/discuss/1604221/C%2B%2B-sliding-window-hints-intuition-explained-commented-code) |
 | longest subarray with difference less than limit | sliding window | [link](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Arrays/longest_subarray_with_difference_less_than_limit.cpp) | [link](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/discuss/1604652/C%2B%2B-Map-Solution-or-commented-code) |
 
 # Day wise progress
+  
+ ## 🔺Day 84 :
+
+| Problem | Topic | Question link | Solution | 
+| --- | --- | --- | --- | 
+| longest subarray with difference less than limit | sliding window | [link](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Arrays/longest_subarray_with_difference_less_than_limit.cpp) 
+| longest substring with at most k distinct characters | sliding window | leetcode premium | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Arrays/longest_substring_with_at_most_k_distinct_characters.cpp) |
+|Subarrays with K Different Integers| sliding window | [link](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Arrays/subarrays_with_k_different_integers.cpp) |
+* and revised some topics
 
 ## 🔺Day 83 :
 
