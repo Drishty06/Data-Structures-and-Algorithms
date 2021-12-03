@@ -24,6 +24,20 @@
 # Topic wise problems' list (started from DAY 83) 
   
 <!-- |  |  | [link]() | [link]() | [link]() |   -->
+  
+  
+## ⭕ Binary Search leetcode:
+| Problem | Topic | Question link | Solution | my article/article from discussion tab |
+| --- | --- | --- | --- | --- | 
+| minimum days to make m bouquets | binary search | [link](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Searching/minimum_number_of_days_to_make_m_bouquets.cpp) | [link](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/discuss/1609588/C%2B%2B-or-Binary-Search-or-Intuition-Explained-or-Video-explanation) |
+  
+## ⭕ Two pointers leetcode:
+| Problem | Topic | Question link | Solution | my article/article from discussion tab |
+| --- | --- | --- | --- | --- | 
+| 3 Sum | two pointers | [link](https://leetcode.com/problems/3sum/submissions/) | [link]() | [link]() |
+| container with most water | two pointers | [link](https://leetcode.com/problems/container-with-most-water/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Arrays/container%20with%20most%20water.cpp) | 
+
+ 
 ## ⭕ Sliding window leetcode:
 | Problem | Topic | Question link | Solution | my article/article from discussion tab |
 | --- | --- | --- | --- | --- | 
@@ -37,6 +51,29 @@
 
 # Day wise progress
   
+## 🔺Day 87 : 
+| Problem | Topic | Question link | Solution | 
+| --- | --- | --- | --- | 
+| maximum product subarray | kadane's algo | [link](https://leetcode.com/problems/maximum-product-subarray/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Leetcode%20Daily%20Challenge/maximum%20product%20subarray.cpp) |
+| sort colors | dnf sort | [link](https://leetcode.com/problems/sort-colors/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Arrays/sort%20colors.cpp) | 
+| minimum days to make m bouquets | binary search | [link](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Searching/minimum_number_of_days_to_make_m_bouquets.cpp) |
+
+
+## 🔺Day 86 : 
+| Problem | Topic | Question link | Solution | 
+| --- | --- | --- | --- | 
+| odd even linked list | linked list | [link](https://leetcode.com/problems/odd-even-linked-list/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Leetcode%20Daily%20Challenge/odd%20even%20linked%20list.cpp) | 
+| 3 Sum | two pointers | [link](https://leetcode.com/problems/3sum/submissions/) | [link]() | 
+* revised other topics
+  
+## 🔺Day 85 : 
+| Problem | Topic | Question link | Solution | 
+| --- | --- | --- | --- | 
+| single number | bit manipulation | [link](https://leetcode.com/problems/single-number/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Bit%20Manipulation/single%20number.cpp) | 
+| majority element | arrays | [link](https://leetcode.com/problems/majority-element/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Arrays/majority%20element.cpp) | 
+| container with most water | two pointers | [link](https://leetcode.com/problems/container-with-most-water/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Arrays/container%20with%20most%20water.cpp) | 
+| house robber | arrays | [link](https://leetcode.com/problems/house-robber/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Leetcode%20Daily%20Challenge/house%20robber.cpp) |
+  
  ## 🔺Day 84 :
 
 | Problem | Topic | Question link | Solution | 
@@ -47,7 +84,6 @@
 * and revised some topics
 
 ## 🔺Day 83 :
-
 | Problem | Topic | Question link | Solution | 
 | --- | --- | --- | --- |
 |longest substring without repeating characters| sliding window | [link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Arrays/longest_substring_without_repeating_characters.cpp) |
