@@ -1,8 +1,19 @@
-<!-- | | | | [link]() | [link]() |  |  -->
+<!-- ||  |  | [link]() | [link]() |  |  -->
 ## December Daily Challenge 2021:
 Day | Problem | Topic | Question link | Solution | my article/article from discussion tab |
 | --- | --- | --- | --- | --- | --- | 
 |1| house robber | arrays | [link](https://leetcode.com/problems/house-robber/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Leetcode%20Daily%20Challenge/house%20robber.cpp) |  | 
 |2| odd even linked list | linked list | [link](https://leetcode.com/problems/odd-even-linked-list/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Leetcode%20Daily%20Challenge/odd%20even%20linked%20list.cpp) | [link](https://leetcode.com/problems/odd-even-linked-list/discuss/1608164/c-on-time-o1-space) |
 |3| maximum product subarray | kadane's algo | [link](https://leetcode.com/problems/maximum-product-subarray/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Leetcode%20Daily%20Challenge/maximum%20product%20subarray.cpp) |  |
-|4| | | [link]() | [link]() | [link]() |
+|4| stream of characters | trie | [link](https://leetcode.com/problems/stream-of-characters/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Leetcode%20Daily%20Challenge/stream%20of%20characters.cpp) | |
+|5| house robber III | binary tree | [link](https://leetcode.com/problems/house-robber-iii/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Leetcode%20Daily%20Challenge/house%20robber%20III.cpp) |  | 
+|6| minimum cost to move chips to the same position | array and greedy | [link](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Leetcode%20Daily%20Challenge/minimum%20cost%20to%20move%20chips%20to%20the%20same%20position.cpp) |  |
+|7| convert binary number in a linked list to integer | linked list | [link](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Leetcode%20Daily%20Challenge/convert%20binary%20number%20in%20linked%20list%20to%20integer.cpp) |  |
+|8| binary tree tilt | binary tree | [link](https://leetcode.com/problems/binary-tree-tilt/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Leetcode%20Daily%20Challenge/binary%20tree%20tilt.cpp) |  |
+|9| jump game III | dfs & bfs | [link](https://leetcode.com/problems/jump-game-iii/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Leetcode%20Daily%20Challenge/jump%20game%20III.cpp) |  |
+|10| domino and tromino trilling | DP | [link](https://leetcode.com/problems/domino-and-tromino-tiling/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Leetcode%20Daily%20Challenge/domino%20and%20tromino%20trilling.cpp) |  |
+|11| Nth magical number| Binary search | [link](https://leetcode.com/problems/nth-magical-number/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Leetcode%20Daily%20Challenge/nth%20magical%20number.cpp) |  |
+|12| partition equal subset sum | Recursion and DP | [link](https://leetcode.com/problems/partition-equal-subset-sum/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Leetcode%20Daily%20Challenge/partition%20equal%20subset%20sum.cpp) |  |
+|13| consecutive characters | string | [link](https://leetcode.com/problems/consecutive-characters/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Leetcode%20Daily%20Challenge/consecutive%20characters.cpp) |  |
+|14| range sum of bst | BST | [link](https://leetcode.com/problems/range-sum-of-bst/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Leetcode%20Daily%20Challenge/range%20sum%20of%20BST.cpp) |  |
+|15| insertion sort list | linked list | [link](https://leetcode.com/problems/insertion-sort-list/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Leetcode%20Daily%20Challenge/insertion%20sort%20list.cpp) |  |
