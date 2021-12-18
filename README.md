@@ -50,6 +50,8 @@
 | longest subarray with difference less than limit | sliding window | [link](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Arrays/longest_subarray_with_difference_less_than_limit.cpp) | [link](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/discuss/1604652/C%2B%2B-Map-Solution-or-commented-code) |
 
 # Day wise progress
+  
+## 🔺Day 89 to Day 103 : Google step interview preparation 
 
 ## 🔺Day 88 : 
 | Problem | Topic | Question link | Solution | 
