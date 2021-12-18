@@ -1,3 +1,4 @@
+// to checkout a better approach look at josephus problem which is efficient recursive solution for same problem
 int findTheWinner(int n, int k) {
         queue<int> membersQ;
         for(int i=1; i<=n; i++)
