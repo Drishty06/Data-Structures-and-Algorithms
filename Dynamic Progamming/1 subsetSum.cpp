@@ -8,7 +8,7 @@
         {
             dp[i][0] = true;
         }
-        for(int j=0; j<sum+1; i++)
+        for(int j=0; j<sum+1; j++)
         {
             dp[0][j] = false;
         }
