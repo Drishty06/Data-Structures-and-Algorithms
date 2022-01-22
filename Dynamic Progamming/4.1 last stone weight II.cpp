@@ -1,4 +1,4 @@
-// problem link: https://leetcode.com/problems/last-stone-weight-ii/submissions/
+    // problem link: https://leetcode.com/problems/last-stone-weight-ii/submissions/
     // intuition: for every example, actually we are adding certin elements and we are subtracting certain elements
     // for eg: 2 7 4 1 8 1 
     // => (8-7)  (4-2)  (1-1) lets say in first go we smashed these stones
