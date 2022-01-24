@@ -1,6 +1,6 @@
 // notes pg: 23-25
-// just a minor change in lin 22
-int 01knapsack(vector<int>& wt, int W, int n)
+// just a minor change in line 22
+int unboundedKnapsack(vector<int>& wt, vector<int>& val, int W, int n)
     {
         int dp[n + 1][W + 1];
         // initializing values
