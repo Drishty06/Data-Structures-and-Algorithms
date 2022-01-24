@@ -2,7 +2,7 @@
     // find maximum profit
     // refer notes pg: 3-9
 
-    int 01knapsack(vector<int>& wt, int W, int n)
+    int 01knapsack(vector<int>& wt, vector<int>& val, int W, int n)
     {
         int dp[n + 1][W + 1];
         // initializing values
