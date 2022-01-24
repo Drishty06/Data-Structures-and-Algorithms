@@ -11,6 +11,7 @@
     // s1+s2 = totalSum
     // s1 = (totalSum + target)/2 
     // don't forget to cover the case when target can be negative
+
     
     int findTargetSumWays(vector<int>& nums, int target) {
         int n = nums.size();
