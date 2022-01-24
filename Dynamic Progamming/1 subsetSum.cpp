@@ -1,5 +1,6 @@
     // notes pg: 10-13
     // given an array arr and sum, check if there is any subset with given sum
+
     bool subsetSum(vector<int>& arr, int sum, int n)
     {
         bool dp[n + 1][sum + 1];
