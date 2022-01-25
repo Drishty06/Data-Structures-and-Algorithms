@@ -1,5 +1,6 @@
 // notes pg: 23-25
-// just a minor change in line 22
+// just a minor change in line 23
+
 int unboundedKnapsack(vector<int>& wt, vector<int>& val, int W, int n)
     {
         int dp[n + 1][W + 1];
