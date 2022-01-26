@@ -8,6 +8,7 @@
     // => overall it is equal to divding the stones array such that their difference is least - which gives us least weight
     // therefore, this is exactly similar to minimum subset sum difference
     // approach: recursion -> memoization -> optimized dp 
+
     // ------------------------------------------------------------------------------------
     
     // 1. recursion: TLE
