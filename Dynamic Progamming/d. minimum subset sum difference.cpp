@@ -1,5 +1,6 @@
 // problem link: https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/#
     // notes pg: 16-21
+
 	int minDifference(int arr[], int n)  { 
 	    int sum = accumulate(arr, arr+n, 0);
 	    bool dp[n + 1][sum + 1];
