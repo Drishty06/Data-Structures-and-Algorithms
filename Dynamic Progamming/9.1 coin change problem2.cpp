@@ -1,7 +1,7 @@
 // coin change problem 2 of leetcode = coin change problem 1 of notes
 // problem link: https://leetcode.com/problems/coin-change-2/
 
-// intuition: 
+    // intuition: 
     // why recursion? => because we have choices for coins 
     // why knapsack? => because we have a fixed capacity which is amount and we have choices for coins whether to include them or not
     // why unbounded knapsack? => because for every coin, we can include it multiple times as well, ie., there unlimited supply of coins
