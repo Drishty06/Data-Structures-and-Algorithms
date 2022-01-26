@@ -1,5 +1,5 @@
 // refer notes pg: 27-29
-    int coinChange1(vector<int>& coin, int sum)
+    int coinChange(vector<int>& coin, int sum)
     {
         int n = coin.size();
         int dp[n + 1][sum + 1];
