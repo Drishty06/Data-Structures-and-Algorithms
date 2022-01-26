@@ -4,11 +4,11 @@
         int n = coin.size();
         int dp[n + 1][sum + 1];
         // initializing values
-        for(int i=0; i < n+1; i++)
+        for(int i=0; i<=n; i++)
         {
             dp[i][0] = 1;
         }
-        for(int j=1; j<len+1; i++)
+        for(int j=1; j<=sum; i++)
         {
             dp[0][j] = 0;
         }
