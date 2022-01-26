@@ -1,5 +1,6 @@
 // coin change problem 2 of leetcode = coin change problem 1 of notes
 // problem link: https://leetcode.com/problems/coin-change-2/
+
 // intuition: 
     // why recursion? => because we have choices for coins 
     // why knapsack? => because we have a fixed capacity which is amount and we have choices for coins whether to include them or not
