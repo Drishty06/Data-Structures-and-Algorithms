@@ -13,3 +13,5 @@
 | rod cutting problem | 25-27 | | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Dynamic%20Progamming/8%20rod%20cutting%20problem.cpp) | |
 | coin change problem(total number of ways) | 27-29 | | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Dynamic%20Progamming/9%20coin%20change%20problem1.cpp) | |
 | coin change problem 2 | pract | [link](https://leetcode.com/problems/coin-change-2/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Dynamic%20Progamming/9.1%20coin%20change%20problemII.cpp) | |
+| coin change problem(minimum number of coins) | 29-32 | | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Dynamic%20Progamming/10%20coin%20change%20problem%20(minimum%20number%20of%20coins).cpp) | |
+| coin change problem | pract | [link](https://leetcode.com/problems/coin-change/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Dynamic%20Progamming/10.01%20coin%20change%20problem.cpp) | |
