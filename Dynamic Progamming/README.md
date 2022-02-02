@@ -11,7 +11,7 @@
 | count subset with given difference | 21-22 |  | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Dynamic%20Progamming/05%20count%20subset%20with%20given%20difference.cpp) |  |
 | target sum | 22-23 | [link](https://leetcode.com/problems/target-sum/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Dynamic%20Progamming/06%20target%20sum.cpp) | [link](https://leetcode.com/problems/target-sum/discuss/1247293/C%2B%2B-oror-Bottom-Up-DP) (not written by me) |
 | unbounded knapsack | 23-25 |  | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Dynamic%20Progamming/07%20unbounded%20knapsack.cpp) |  |
-| rod cutting problem | 25-27 | | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Dynamic%20Progamming/08%20rod%20cutting%20problem.cppp) | |
+| rod cutting problem | 25-27 | | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Dynamic%20Progamming/08%20rod%20cutting%20problem.cpp) | |
 | coin change problem(total number of ways) | 27-29 | | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Dynamic%20Progamming/09%20coin%20change%20problem(total%20number%20of%20ways).cpp) | |
 | coin change problem 2 | pract | [link](https://leetcode.com/problems/coin-change-2/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Dynamic%20Progamming/09.01%20coin%20change%20problem2.cpp) | |
 | coin change problem(minimum number of coins) | 29-32 | | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Dynamic%20Progamming/10%20coin%20change%20problem%20(minimum%20number%20of%20coins).cpp) | |
