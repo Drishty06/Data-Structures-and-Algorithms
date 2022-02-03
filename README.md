@@ -21,23 +21,7 @@
 | Binary Min Heap | ```O(log n)``` | ```O(log n)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` |
 | Binary Max Heap | ```O(log n)``` | ```O(log n)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | 
   
-# Topic wise problems' list (started from DAY 83) 
-  
-<!-- |  |  | [link]() | [link]() | [link]() |   -->
-  
-  
-## ⭕ Binary Search leetcode:
-| Problem | Topic | Question link | Solution | my article/article from discussion tab |
-| --- | --- | --- | --- | --- | 
-| minimum days to make m bouquets | binary search | [link](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Searching/minimum_number_of_days_to_make_m_bouquets.cpp) | [link](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/discuss/1609588/C%2B%2B-or-Binary-Search-or-Intuition-Explained-or-Video-explanation) |
-  
-## ⭕ Two pointers leetcode:
-| Problem | Topic | Question link | Solution | my article/article from discussion tab |
-| --- | --- | --- | --- | --- | 
-| 3 Sum | two pointers | [link](https://leetcode.com/problems/3sum/submissions/) | [link]() | [link]() |
-| container with most water | two pointers | [link](https://leetcode.com/problems/container-with-most-water/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Arrays/container%20with%20most%20water.cpp) | 
-
- 
+# Topic wise problems' list 
 ## ⭕ Sliding window leetcode:
 | Problem | Topic | Question link | Solution | my article/article from discussion tab |
 | --- | --- | --- | --- | --- | 
