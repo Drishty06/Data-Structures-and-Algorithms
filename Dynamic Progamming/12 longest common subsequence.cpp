@@ -52,11 +52,11 @@
         // initialization
         for(int i = 0; i < m+1; i++)
         {
-            if(i == 0) dp[i][0] = 0;
+            dp[i][0] = 0;
         }
         for(int j = 0; j < n+1; j++)
         {
-            if(j == 0) dp[0][j] = 0;
+           dp[0][j] = 0;
         }
         
         for(int i = 1; i < m+1; i++)
