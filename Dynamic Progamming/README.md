@@ -19,3 +19,4 @@
 | integer break | pract | [link](https://leetcode.com/problems/integer-break/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Dynamic%20Progamming/11.01%20integer%20break.cpp) | |
 | longest common subsequence | 34-36 | [link](https://leetcode.com/problems/longest-common-subsequence) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Dynamic%20Progamming/12%20longest%20common%20subsequence.cpp) | |
 | longest common substring | 36-37 |  | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Dynamic%20Progamming/13%20longest%20common%20substring.cpp) | |
+| print longest common subsequence | 38-39 | | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Dynamic%20Progamming/14%20print%20longest%20common%20subsequence.cpp) | |
