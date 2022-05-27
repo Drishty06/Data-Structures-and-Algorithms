@@ -21,3 +21,4 @@
 | longest common substring | 36-37 |  | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Dynamic%20Progamming/13%20longest%20common%20substring.cpp) | |
 | print longest common subsequence | 38-39 | | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Dynamic%20Progamming/14%20print%20longest%20common%20subsequence.cpp) | |
 | shortest common supersequence | 39-40 | | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Dynamic%20Progamming/15%20shortest%20common%20supersequence.cpp) | | 
+| print shortest common supersequence | 40 | [link](https://leetcode.com/problems/shortest-common-supersequence/) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Dynamic%20Progamming/16%20print%20shortest%20common%20supersequence.cpp) ||
