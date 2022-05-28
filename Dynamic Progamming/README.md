@@ -27,3 +27,4 @@
 | longest palindromic subsequence | 41 | [link](https://leetcode.com/problems/longest-palindromic-subsequence) | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Dynamic%20Progamming/18%20longest%20palindromic%20subsequence.cpp) | |
 | minimum number of deletions to make string palindrome | 42 |  | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Dynamic%20Progamming/19%20minimum%20number%20of%20deletions%20to%20make%20string%20palindrome.cpp) ||
 | longest repeating subsequence | 42 | | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Dynamic%20Progamming/20%20longest%20repeating%20subsequence.cpp) ||
+| subsequence pattern matching | 43 |  | [link](https://github.com/Drishty06/Data-Structures-and-Algorithms/blob/main/Dynamic%20Progamming/21%20sequence%20pattern%20matching.cpp) | |
